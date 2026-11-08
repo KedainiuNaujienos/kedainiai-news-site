@@ -1,0 +1,32 @@
+/* Extras for the static site (loaded after style.css). */
+
+.site-nav {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1.25rem;
+  margin-top: 1.25rem;
+}
+
+.site-nav a {
+  color: #ffffff;
+  font-weight: 600;
+  text-decoration: none;
+  border-bottom: 2px solid rgba(255, 255, 255, 0.35);
+  padding-bottom: 2px;
+}
+
+.site-nav a:hover,
+.site-nav a:focus-visible {
+  border-bottom-color: #ffffff;
+}
+
+a:focus-visible,
+summary:focus-visible {
+  outline: 3px solid #1f5b49;
+  outline-offset: 2px;
+}
+
+.updated {
+  margin-top: 0;
+  font-size: 0.85rem;
+}
