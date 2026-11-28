@@ -1,0 +1,32 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Renginiai Kedainiu Rajone//LT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:1799946cc1666636@renginiaikedainiuose.lt
+DTSTAMP:20261128T161055Z
+DTSTART:20261210T160000Z
+DTEND:20261210T170000Z
+SUMMARY:Kalėdinio atviruko edukacija „Užrašyk Kalėdas“
+LOCATION:Šėtos kultūros centras\, Kėdainių g. 6\, Šėta\, 58131
+URL:https://www.setoskultura.lt/renginiai/kaledinio-atviruko-edukacija-uzra
+ syk-kaledas/
+DESCRIPTION:Ar žinote\, kiek šilumos telpa savo rankomis kurtame atviruke
+  ir kaip gera jį atvertus rasti artimo žmogaus ranka rašytus kalėdiniu
+ s linkėjimus? Kviečiame mažus ir didelius į kalėdinių atvirukų eduk
+ aciją „Užrašyk Kalėdas“. Čia sveikinimą artimam žmogui kursime 
+ nuo pat pradžių – pirmiausia savo rankomis pagaminsime atviruką\, o t
+ ada į jį įrašysime linkėjimus\, skirtus būtent jam. Karpysime\, klij
+ uosime\, piešime spalvotais pieštukais ir išbandysime akvarelę. Galės
+ ite pasisemti idėjų iš atvirukų pavyzdžių arba įgyvendinti savo sum
+ anymą. Būtina registracija (telefonu +370 647 74778)\, edukacija…\n\nD
+ augiau: https://www.setoskultura.lt/renginiai/kaledinio-atviruko-edukacija
+ -uzrasyk-kaledas/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Kalėdinio atviruko edukacija „Užrašyk Kalėdas“
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

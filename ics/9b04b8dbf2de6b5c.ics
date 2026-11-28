@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Renginiai Kedainiu Rajone//LT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:9b04b8dbf2de6b5c@renginiaikedainiuose.lt
+DTSTAMP:20261128T161055Z
+DTSTART:20261207T150000Z
+DTEND:20261207T163000Z
+SUMMARY:Kėdainių kalbų mokyklos 35-erių metų veiklos sukakties švent
+ ė
+LOCATION:Kėdainių kultūros centras\, - J. Basanavičiaus g. 24\, Kėdain
+ iai
+URL:https://kedainiai.lt/renginiai/244/kedainiu-kalbu-mokyklos-35-eriu-metu
+ -veiklos-sukakties-svente/event-9748
+DESCRIPTION:Renginio adresas - J. Basanavičiaus g. 24\, Kėdainiai Rengini
+ o organizatorius - Kėdainių kalbų mokykla *Nemokamas renginys\n\nDaugia
+ u: https://kedainiai.lt/renginiai/244/kedainiu-kalbu-mokyklos-35-eriu-metu
+ -veiklos-sukakties-svente/event-9748
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Kėdainių kalbų mokyklos 35-erių metų veiklos sukakties šv
+ entė
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

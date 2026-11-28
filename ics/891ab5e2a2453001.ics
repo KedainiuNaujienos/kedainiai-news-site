@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Renginiai Kedainiu Rajone//LT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:891ab5e2a2453001@renginiaikedainiuose.lt
+DTSTAMP:20261128T161055Z
+DTSTART:20261202T150000Z
+DTEND:20261202T160000Z
+SUMMARY:Bendruomeninė akcija „Pasipuoškime Kalėdoms“
+LOCATION:Kėdainių kultūros centro Labūnavos skyrius\, - Barupės g. 9\,
+  Labūnava\, Pelėdnagių sen.\, Kėdainių r.
+URL:https://kedainiai.lt/renginiai/244/bendruomenine-akcija-pasipuoskime-ka
+ ledoms/event-9760
+DESCRIPTION:Renginio adresas - Barupės g. 9\, Labūnava\, Pelėdnagių sen
+ .\, Kėdainių r. Renginio organizatorius - Kėdainių kultūros centro La
+ būnavos skyrius *Nemokamas renginys\n\nDaugiau: https://kedainiai.lt/reng
+ iniai/244/bendruomenine-akcija-pasipuoskime-kaledoms/event-9760
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Bendruomeninė akcija „Pasipuoškime Kalėdoms“
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

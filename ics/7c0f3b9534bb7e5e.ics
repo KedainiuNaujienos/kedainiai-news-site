@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Renginiai Kedainiu Rajone//LT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:7c0f3b9534bb7e5e@renginiaikedainiuose.lt
+DTSTAMP:20261128T161055Z
+DTSTART:20261202T090000Z
+DTEND:20261202T150000Z
+SUMMARY:Advento-kalėdinių vainikų pynimo dirbtuvėlės
+LOCATION:Krakių kultūros centro Meironiškių skyrius\, - Saulėtekio 7\,
+  Meironiškiai\, Kėdainių r.
+URL:https://kedainiai.lt/renginiai/244/advento-kalediniu-vainiku-pynimo-dir
+ btuveles/event-9721
+DESCRIPTION:Renginio adresas - Saulėtekio 7\, Meironiškiai\, Kėdainių r
+ . Renginio organizatorius - Krakių kultūros centro Meironiškių skyrius
+  *Renginys nemokamas\n\nDaugiau: https://kedainiai.lt/renginiai/244/advent
+ o-kalediniu-vainiku-pynimo-dirbtuveles/event-9721
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Advento-kalėdinių vainikų pynimo dirbtuvėlės
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

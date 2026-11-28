@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Renginiai Kedainiu Rajone//LT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:55dccd01f4d45833@renginiaikedainiuose.lt
+DTSTAMP:20261128T161055Z
+DTSTART:20261217T110000Z
+DTEND:20261217T140000Z
+SUMMARY:Kūčiukų kepimo akcija
+LOCATION:Krakių bendruomenės Svetainė\, - Basanavičiaus g. 1-3\, Krakė
+ s\, Kėdainių r.
+URL:https://kedainiai.lt/renginiai/244/kuciuku-kepimo-akcija/event-9729
+DESCRIPTION:Renginio adresas - Basanavičiaus g. 1-3\, Krakės\, Kėdainių
+  r. Renginio organizatorius - Krakių bendruomenės centras *Renginys nemo
+ kamas\n\nDaugiau: https://kedainiai.lt/renginiai/244/kuciuku-kepimo-akcija
+ /event-9729
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Kūčiukų kepimo akcija
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

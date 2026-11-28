@@ -1,0 +1,33 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Renginiai Kedainiu Rajone//LT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:676fd0adf0c81f13@renginiaikedainiuose.lt
+DTSTAMP:20261128T161055Z
+DTSTART:20261219T140000Z
+DTEND:20261219T160000Z
+SUMMARY:Urbo NKL rungtynės Kėdainių „Kėdainiai BC“ – Plungės „
+ Olimpas“
+LOCATION:Kėdainių sporto centras\, – Parko g. 4\, Vilainių sen.\, Kėd
+ ainių r.
+URL:https://kedainiai.lt/renginiai/244/urbo-nkl-rungtynes-kedainiu-kedainia
+ i-bc-plunges-olimpas/event-9659
+DESCRIPTION:Renginio adresas – Parko g. 4\, Vilainių sen.\, Kėdainių r
+ . Renginio organizatorius – VšĮ „Kėdainių krepšinis“ Bilietus p
+ latina: www.ticketmarket.lt Visi Kėdainių rajono mokiniai\, pateikę mok
+ sleivio pažymėjimą\, senjorai ir vaikai iki 7 metų įleidžiami nemoka
+ mai. Bilietus varžybų vietoje bus galima įsigyti atsiskaitant tik banko
+  kortele. Taip pat bilietus galėsite įsigyti internetu\, naudodamiesi sa
+ vo telefonu. Svarbu: atsiskaitymas grynaisiais pinigais renginio vietoje n
+ egalimas.\n\nDaugiau: https://kedainiai.lt/renginiai/244/urbo-nkl-rungtyne
+ s-kedainiu-kedainiai-bc-plunges-olimpas/event-9659
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Urbo NKL rungtynės Kėdainių „Kėdainiai BC“ – Plungės
+  „Olimpas“
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

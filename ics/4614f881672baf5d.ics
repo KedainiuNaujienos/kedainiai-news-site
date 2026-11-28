@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Renginiai Kedainiu Rajone//LT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:4614f881672baf5d@renginiaikedainiuose.lt
+DTSTAMP:20261128T161055Z
+DTSTART:20261218T100000Z
+DTEND:20261218T110000Z
+SUMMARY:Kūrybinės dirbtuvės vaikams „Mažytė eglutė\, didelis Kalėd
+ ų džiaugsmas“
+LOCATION:M. Daukšos viešosios bibliotekos vaikų ir jaunimo skyrius\, - D
+ idžiosios Rinkos a. 4\, Kėdainiai
+URL:https://kedainiai.lt/renginiai/244/kurybines-dirbtuves-vaikams-mazyte-e
+ glute-didelis-kaledu-dziaugsmas/event-9718
+DESCRIPTION:Renginio adresas - Didžiosios Rinkos a. 4\, Kėdainiai Rengini
+ o organizatorius – Kėdainių rajono savivaldybės M. Daukšos viešoji 
+ biblioteka *Renginys nemokamas\n\nDaugiau: https://kedainiai.lt/renginiai/
+ 244/kurybines-dirbtuves-vaikams-mazyte-eglute-didelis-kaledu-dziaugsmas/ev
+ ent-9718
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Kūrybinės dirbtuvės vaikams „Mažytė eglutė\, didelis Ka
+ lėdų džiaugsmas“
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

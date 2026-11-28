@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Renginiai Kedainiu Rajone//LT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:4a4ec01385ba80be@renginiaikedainiuose.lt
+DTSTAMP:20261128T161055Z
+DTSTART:20261210T140000Z
+DTEND:20261210T180000Z
+SUMMARY:Kalėdomobilio kelionė po Truskavos seniūniją
+LOCATION:Pavermenys-Truskava-Petkūnai-Okainiai-Pavermenys\, - Pavermenio k
+ .\, Okainių k.\, Truskavos mstl.\, Petkūnų k.
+URL:https://kedainiai.lt/renginiai/244/kaledomobilio-kelione-po-truskavos-s
+ eniunija/event-9673
+DESCRIPTION:Renginio adresas - Pavermenio k.\, Okainių k.\, Truskavos mstl
+ .\, Petkūnų k. Renginio organizatorius - Truskavos kultūros centras *Re
+ nginys nemokamas\n\nDaugiau: https://kedainiai.lt/renginiai/244/kaledomobi
+ lio-kelione-po-truskavos-seniunija/event-9673
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Kalėdomobilio kelionė po Truskavos seniūniją
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

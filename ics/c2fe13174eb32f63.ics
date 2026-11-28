@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Renginiai Kedainiu Rajone//LT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:c2fe13174eb32f63@renginiaikedainiuose.lt
+DTSTAMP:20261128T161055Z
+DTSTART:20261210T150000Z
+DTEND:20261210T160000Z
+SUMMARY:Padėkos vakaras globėjams „Advento šviesoje – viena bendryst
+ ė“
+LOCATION:Daugiakultūris centras\, - Paeismilgio g.12B\, Kėdainiai
+URL:https://kedainiai.lt/renginiai/244/padekos-vakaras-globejams-advento-sv
+ iesoje-viena-bendryste/event-9744
+DESCRIPTION:Renginio adresas - Paeismilgio g.12B\, Kėdainiai Renginio orga
+ nizatorius - Kėdainių pagalbos šeimai centro Globos centras *Nemokamas 
+ renginys Pindami advento vainiką\, klausydamiesi folkloro melodijų ir da
+ lydamiesi šiluma\, prisiminsime tai\, kas svarbiausia – kiekvienam vaik
+ ui reikia ne tobulų namų\, o širdies\, kurioje jam visada yra vietos\n\
+ nDaugiau: https://kedainiai.lt/renginiai/244/padekos-vakaras-globejams-adv
+ ento-sviesoje-viena-bendryste/event-9744
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Padėkos vakaras globėjams „Advento šviesoje – viena bend
+ rystė“
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,32 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Renginiai Kedainiu Rajone//LT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6868370b383e8805@renginiaikedainiuose.lt
+DTSTAMP:20261128T161055Z
+DTSTART:20261205T080000Z
+DTEND:20261205T160000Z
+SUMMARY:6-asis tarptautinis uždarų patalpų žolės riedulio turnyras Kė
+ dainių rajono savivaldybės mero taurei laimėti
+LOCATION:Kėdainių sporto centro teniso maniežas\, – Parko g. 6\, Vilai
+ nių sen.\, Kėdainių r.
+URL:https://kedainiai.lt/renginiai/244/6-asis-tarptautinis-uzdaru-patalpu-z
+ oles-riedulio-turnyras-kedainiu-rajono-savivaldybes-mero-taurei-laimeti/ev
+ ent-9652
+DESCRIPTION:Renginio adresas – Parko g. 6\, Vilainių sen.\, Kėdainių r
+ . Renginio organizatorius – Asociacija „Kėdainių žolės riedulio kl
+ ubas“ Žolės riedulys - sportas visam gyvenimui! Ir tą įrodo masiški
+ ausias kasmetinis Lietuvos riedulio meistrų turnyras Kėdainiuose!\n\nDau
+ giau: https://kedainiai.lt/renginiai/244/6-asis-tarptautinis-uzdaru-patalp
+ u-zoles-riedulio-turnyras-kedainiu-rajono-savivaldybes-mero-taurei-laimeti
+ /event-9652
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:6-asis tarptautinis uždarų patalpų žolės riedulio turnyras
+  Kėdainių rajono savivaldybės mero taurei laimėti
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Renginiai Kedainiu Rajone//LT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6fafcf0794543a41@renginiaikedainiuose.lt
+DTSTAMP:20261128T161055Z
+DTSTART:20261201T140000Z
+DTEND:20261201T150000Z
+SUMMARY:„Sengirės kinas“: dokumentinio filmo „Miško šnabždesiai
+ “ (rež. Vincent Murnier) peržiūra
+LOCATION:M. Daukšos viešoji biblioteka\, - Didžiosios Rinkos a. 5\, Kėd
+ ainiai
+URL:https://kedainiai.lt/renginiai/244/sengires-kinas-dokumentinio-filmo-mi
+ sko-snabzdesiai-rez.-vincent-murnier-perziura/event-9714
+DESCRIPTION:Renginio adresas - Didžiosios Rinkos a. 5\, Kėdainiai Rengini
+ o organizatorius – Kėdainių rajono savivaldybės M. Daukšos viešoji 
+ biblioteka *Renginys nemokamas\n\nDaugiau: https://kedainiai.lt/renginiai/
+ 244/sengires-kinas-dokumentinio-filmo-misko-snabzdesiai-rez.-vincent-murni
+ er-perziura/event-9714
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:„Sengirės kinas“: dokumentinio filmo „Miško šnabždesi
+ ai“ (rež. Vincent Murnier) peržiūra
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

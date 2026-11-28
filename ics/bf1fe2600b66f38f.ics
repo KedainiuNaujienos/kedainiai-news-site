@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Renginiai Kedainiu Rajone//LT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:bf1fe2600b66f38f@renginiaikedainiuose.lt
+DTSTAMP:20261128T161055Z
+DTSTART:20261217T140000Z
+DTEND:20261217T150000Z
+SUMMARY:Kūrybinės dirbtuvės jaunimui „Spalvotos Kalėdos“
+LOCATION:M. Daukšos viešosios bibliotekos vaikų ir jaunimo skyrius\, - D
+ idžiosios Rinkos a. 4\, Kėdainiai
+URL:https://kedainiai.lt/renginiai/244/kurybines-dirbtuves-jaunimui-spalvot
+ os-kaledos/event-9717
+DESCRIPTION:Renginio adresas - Didžiosios Rinkos a. 4\, Kėdainiai Rengini
+ o organizatorius – Kėdainių rajono savivaldybės M. Daukšos viešoji 
+ biblioteka *Renginys nemokamas\n\nDaugiau: https://kedainiai.lt/renginiai/
+ 244/kurybines-dirbtuves-jaunimui-spalvotos-kaledos/event-9717
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Kūrybinės dirbtuvės jaunimui „Spalvotos Kalėdos“
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

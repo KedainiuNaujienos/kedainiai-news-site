@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Renginiai Kedainiu Rajone//LT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:7122d86eeeb0f6ba@renginiaikedainiuose.lt
+DTSTAMP:20261128T161055Z
+DTSTART:20261220T120000Z
+DTEND:20261220T140000Z
+SUMMARY:Futsal Varžybos
+LOCATION:Kėdainių arena
+URL:https://kedainiuarena.lt/renginiai/futsal-varzybos-2/?occurrence=2026-1
+ 2-20
+DESCRIPTION:Gruodžio 20 d. Kėdainių arenoje vyks Futsal A lygos rungtyn
+ ės. Kviečiame palaikyti savo miesto salės futbolo komandą „Kėdainia
+ i Futsal“ ir kartu kurti puikią rungtynių atmosferą! Rungtynių prad
+ žia – 14.00 val. Žiūrovams įėjimas nemokamas.\n\nDaugiau: https://k
+ edainiuarena.lt/renginiai/futsal-varzybos-2/?occurrence=2026-12-20
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Futsal Varžybos
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

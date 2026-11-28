@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Renginiai Kedainiu Rajone//LT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:84f3fbfa27a264aa@renginiaikedainiuose.lt
+DTSTAMP:20261128T161055Z
+DTSTART:20261227T140000Z
+DTEND:20261227T160000Z
+SUMMARY:Diskoteka „Kalėdos ant ledo“
+LOCATION:Kėdainių ledo arena\, - Chemikų g. 30\, Kėdainiai\, Kėdainių
+  r.
+URL:https://kedainiai.lt/renginiai/244/diskoteka-kaledos-ant-ledo/event-975
+ 6
+DESCRIPTION:Renginio adresas - Chemikų g. 30\, Kėdainiai\, Kėdainių r. 
+ Renginio organizatorius - Kėdainių kultūros centras *Nemokamas renginys
+ \n\nDaugiau: https://kedainiai.lt/renginiai/244/diskoteka-kaledos-ant-ledo
+ /event-9756
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Diskoteka „Kalėdos ant ledo“
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Renginiai Kedainiu Rajone//LT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:1bee707c3ec84411@renginiaikedainiuose.lt
+DTSTAMP:20261128T161055Z
+DTSTART:20261205T110000Z
+DTEND:20261205T160000Z
+SUMMARY:Kalėdinė mugė
+LOCATION:Kėdainių Didžiosios Rinkos aikštė\, - Didžiosios Rinkos aik
+ štė
+URL:https://kedainiai.lt/renginiai/244/kaledine-muge/event-9745
+DESCRIPTION:Renginio adresas - Didžiosios Rinkos aikštė Renginio organiz
+ atorius - UAB „Eligura“ Daugiau informacijos Gruodžio 5-ąją kvieči
+ ame kurti SAVAS KALĖDAS Kėdainiuose! Susitikime Didžiosios Rinkos aikš
+ tėje\, kur kartu įžiebsime ne tik miesto eglę\, bet ir šventinę nuot
+ aiką savo širdyse.\n\nDaugiau: https://kedainiai.lt/renginiai/244/kaledi
+ ne-muge/event-9745
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Kalėdinė mugė
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

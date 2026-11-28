@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Renginiai Kedainiu Rajone//LT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:29d9cd54c4e0f4c3@renginiaikedainiuose.lt
+DTSTAMP:20261128T161055Z
+DTSTART:20261212T150000Z
+DTEND:20261212T160000Z
+SUMMARY:Kūrybinės dirbtuvės „Pasitikime Kalėdas kartu“
+LOCATION:Kėdainių kultūros centro Labūnavos skyrius\, - Barupės g. 9\,
+  Labūnava\, Pelėdnagių sen.\, Kėdainių r.
+URL:https://kedainiai.lt/renginiai/244/kurybines-dirbtuves-pasitikime-kaled
+ as-kartu/event-9763
+DESCRIPTION:Renginio adresas - Barupės g. 9\, Labūnava\, Pelėdnagių sen
+ .\, Kėdainių r. Renginio organizatorius - Kėdainių kultūros centro La
+ būnavos skyrius *Nemokamas renginys\n\nDaugiau: https://kedainiai.lt/reng
+ iniai/244/kurybines-dirbtuves-pasitikime-kaledas-kartu/event-9763
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Kūrybinės dirbtuvės „Pasitikime Kalėdas kartu“
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

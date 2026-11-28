@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Renginiai Kedainiu Rajone//LT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:e23e1e0d25f173dd@renginiaikedainiuose.lt
+DTSTAMP:20261128T161055Z
+DTSTART:20261204T160000Z
+DTEND:20261204T170000Z
+SUMMARY:Eglutės įžiebimo šventė „Įžiebkim Kalėdas“
+LOCATION:Pagirių skyrius\, Liepų g. 21\, Pagiriai\, Šėtos sen. Kėdaini
+ ų r.\, 58486
+URL:https://www.setoskultura.lt/renginiai/eglutes-iziebimo-svente-iziebkim-
+ kaledas/
+DESCRIPTION:Renginys nemokamas. Vaikų laukia programa su „Žalia vaikų 
+ kūdra“.\n\nDaugiau: https://www.setoskultura.lt/renginiai/eglutes-izieb
+ imo-svente-iziebkim-kaledas/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Eglutės įžiebimo šventė „Įžiebkim Kalėdas“
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

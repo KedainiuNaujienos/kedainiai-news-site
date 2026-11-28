@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Renginiai Kedainiu Rajone//LT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:73d62bd55649ac9a@renginiaikedainiuose.lt
+DTSTAMP:20261128T161055Z
+DTSTART:20261223T170000Z
+DTEND:20261223T190000Z
+SUMMARY:Citadele KMT: Kėdainių „Nevėžis“ - Jurbarko „Jurbarkas-Ka
+ rys-Manvesta“
+LOCATION:Kėdainių arena\, - J. Basanavičiaus g. 1A\, Kėdainiai
+URL:https://kedainiai.lt/renginiai/244/citadele-kmt-kedainiu-nevezis-jurbar
+ ko-jurbarkas-karys-manvesta/event-9372
+DESCRIPTION:Renginio adresas - J. Basanavičiaus g. 1A\, Kėdainiai Rengini
+ o organizatorius - VšĮ Veržlusis Nevėžis *Bilietai ir daugiau informa
+ cijos\n\nDaugiau: https://kedainiai.lt/renginiai/244/citadele-kmt-kedainiu
+ -nevezis-jurbarko-jurbarkas-karys-manvesta/event-9372
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Citadele KMT: Kėdainių „Nevėžis“ - Jurbarko „Jurbarka
+ s-Karys-Manvesta“
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

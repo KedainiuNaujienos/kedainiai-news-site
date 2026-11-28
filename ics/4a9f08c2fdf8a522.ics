@@ -1,0 +1,31 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Renginiai Kedainiu Rajone//LT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:4a9f08c2fdf8a522@renginiaikedainiuose.lt
+DTSTAMP:20261128T161055Z
+DTSTART:20261204T160000Z
+DTEND:20261204T170000Z
+SUMMARY:Kalėdinis šventinis koncertas „Pasitikime šventes kartu“ su 
+ Aidu Maniku\, Laima Žemaityte ir Monika Katunskyte
+LOCATION:Kėdainių kultūros centro Vilainių skyrius\, - Parko g. 6\, Vil
+ ainiai\, Vilainių sen.\, Kėdainių r.
+URL:https://kedainiai.lt/renginiai/244/kaledinis-sventinis-koncertas-pasiti
+ kime-sventes-kartu-su-aidu-maniku-laima-zemaityte-ir-monika-katunskyte/eve
+ nt-9781
+DESCRIPTION:Renginio adresas - Parko g. 6\, Vilainiai\, Vilainių sen.\, K
+ ėdainių r. Renginio organizatorius - Aidas Manikas *Bilieto kaina 15 Eur
+ . Bilietai parduodami Vilainių skyriuje. Info tel. +370 683 93501\n\nDaug
+ iau: https://kedainiai.lt/renginiai/244/kaledinis-sventinis-koncertas-pasi
+ tikime-sventes-kartu-su-aidu-maniku-laima-zemaityte-ir-monika-katunskyte/e
+ vent-9781
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Kalėdinis šventinis koncertas „Pasitikime šventes kartu“
+  su Aidu Maniku\, Laima Žemaityte ir Monika Katunskyte
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

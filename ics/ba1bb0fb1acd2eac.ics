@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Renginiai Kedainiu Rajone//LT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:ba1bb0fb1acd2eac@renginiaikedainiuose.lt
+DTSTAMP:20261128T161055Z
+DTSTART:20261216T160000Z
+DTEND:20261216T170000Z
+SUMMARY:Kūrybinė veikla „Kalėdų jaukumas mūsų rankose“
+LOCATION:Kėdainių kultūros centro Tiskūnų skyrius\, - Tiskūnų g. 7\,
+  Tiskūnai\, Kėdainių r.
+URL:https://kedainiai.lt/renginiai/244/kurybine-veikla-kaledu-jaukumas-musu
+ -rankose/event-9778
+DESCRIPTION:Renginio adresas - Tiskūnų g. 7\, Tiskūnai\, Kėdainių r. R
+ enginio organizatorius - Kėdainių kultūros centro Tiskūnų skyrius *Ne
+ mokamas renginys\n\nDaugiau: https://kedainiai.lt/renginiai/244/kurybine-v
+ eikla-kaledu-jaukumas-musu-rankose/event-9778
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Kūrybinė veikla „Kalėdų jaukumas mūsų rankose“
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

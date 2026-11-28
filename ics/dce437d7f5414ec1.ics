@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Renginiai Kedainiu Rajone//LT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:dce437d7f5414ec1@renginiaikedainiuose.lt
+DTSTAMP:20261128T161055Z
+DTSTART:20261222T160000Z
+DTEND:20261222T170000Z
+SUMMARY:DAINOTAS VARNAS su grupe. Koncertinis turas „Kelias namo”
+LOCATION:Kėdainių kultūros centras\, - J. Basanavičiaus 24\, Kėdainiai
+URL:https://kedainiai.lt/renginiai/244/dainotas-varnas-su-grupe.-koncertini
+ s-turas-kelias-namo/event-9503
+DESCRIPTION:Renginio adresas - J. Basanavičiaus 24\, Kėdainiai Renginio o
+ rganizatorius - VŠĮ Muzikos dienos *Bilietai ir daugiau informacijos\n\n
+ Daugiau: https://kedainiai.lt/renginiai/244/dainotas-varnas-su-grupe.-konc
+ ertinis-turas-kelias-namo/event-9503
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:DAINOTAS VARNAS su grupe. Koncertinis turas „Kelias namo”
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,39 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Renginiai Kedainiu Rajone//LT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:a94cdbb1ec73c024@renginiaikedainiuose.lt
+DTSTAMP:20261128T161055Z
+DTSTART:20261203T150000Z
+DTEND:20261203T174500Z
+SUMMARY:Patyriminis kraštietės egiptologės Marijos Rudzinskaitės-Arcima
+ vičienės (1885–1941) veiklos pristatymas ir egiptietiškos stilistikos
+  atvirlaiškių edukacija
+LOCATION:M. Daukšos viešoji biblioteka\, - Didžiosios Rinkos a. 5\, Kėd
+ ainiai
+URL:https://kedainiai.lt/renginiai/244/patyriminis-krastietes-egiptologes-m
+ arijos-rudzinskaites-arcimavicienes-1885-1941-veiklos-pristatymas-ir-egipt
+ ietiskos-stilistikos-atvirlaiskiu-edukacija/event-9715
+DESCRIPTION:Renginio adresas - Didžiosios Rinkos a. 5\, Kėdainiai Rengini
+ o organizatorius – Kėdainių rajono savivaldybės M. Daukšos viešoji 
+ biblioteka *Renginys nemokamas Renginys yra nacionalinės moterų pasiekim
+ ų savaitės „Karalienės vardu“\, įkvėptos Barboros Radvilaitės\, 
+ programos dalis. Kviečiame į vakarą\, skirtą Marijai Rudzinskaitei-Arc
+ imavičienei – istorikei\, profesionaliosios egiptologijos pradininkei L
+ ietuvoje ir Kėdainių krašto šviesuole. Apie šios išskirtinės asmeny
+ bės gyvenimą\, mokslinę veiklą ir palikimą papasakos profesionali egi
+ ptologė Sandra Veprauskienė. Renginio metu atgis ir pačios M.…\n\nDau
+ giau: https://kedainiai.lt/renginiai/244/patyriminis-krastietes-egiptologe
+ s-marijos-rudzinskaites-arcimavicienes-1885-1941-veiklos-pristatymas-ir-eg
+ iptietiskos-stilistikos-atvirlaiskiu-edukacija/event-9715
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Patyriminis kraštietės egiptologės Marijos Rudzinskaitės-Ar
+ cimavičienės (1885–1941) veiklos pristatymas ir egiptietiškos stilist
+ ikos atvirlaiškių edukacija
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

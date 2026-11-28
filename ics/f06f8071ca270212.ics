@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Renginiai Kedainiu Rajone//LT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:f06f8071ca270212@renginiaikedainiuose.lt
+DTSTAMP:20261128T161055Z
+DTSTART:20261205T100000Z
+DTEND:20261205T120000Z
+SUMMARY:Taškavimo technikos dirbtuvės „Kalėdinių žaisliukų dekoravi
+ mas”
+LOCATION:M. Daukšos viešosios bibliotekos Miegėnų struktūrinis teritor
+ inis padalinys\, - Mechanizatorių g. 4\, Miegėnai\, Kėdainių r.
+URL:https://kedainiai.lt/renginiai/244/taskavimo-technikos-dirbtuves-kaledi
+ niu-zaisliuku-dekoravimas/event-9699
+DESCRIPTION:Renginio adresas - Mechanizatorių g. 4\, Miegėnai\, Kėdaini
+ ų r. Renginio organizatorius - Akademijos kultūros centro Gudžiūnų sk
+ yrius *Nemokamas renginys Edukaciniai teoriniai ir praktiniai mokymai su e
+ dukatore\, taškavimo technikos pradininke Jūrate Beniuškevičiene\n\nDa
+ ugiau: https://kedainiai.lt/renginiai/244/taskavimo-technikos-dirbtuves-ka
+ lediniu-zaisliuku-dekoravimas/event-9699
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Taškavimo technikos dirbtuvės „Kalėdinių žaisliukų deko
+ ravimas”
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

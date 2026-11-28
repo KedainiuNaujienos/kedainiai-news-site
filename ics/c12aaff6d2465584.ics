@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Renginiai Kedainiu Rajone//LT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:c12aaff6d2465584@renginiaikedainiuose.lt
+DTSTAMP:20261128T161055Z
+DTSTART:20261212T110000Z
+DTEND:20261212T130000Z
+SUMMARY:Futsal varžybos
+LOCATION:Kėdainių arena
+URL:https://kedainiuarena.lt/renginiai/futsal-varzybos/?occurrence=2026-12-
+ 12
+DESCRIPTION:Gruodžio 12 d. Kėdainių arenoje vyks Futsal A lygos rungtyn
+ ės. Susitiks Kėdainių „Kėdainiai Futsal“ ir Naujosios Akmenės „
+ FK Akmenės kraštas“. Rungtynių pradžia – 13.00 val. Žiūrovams į
+ ėjimas nemokamas.\n\nDaugiau: https://kedainiuarena.lt/renginiai/futsal-v
+ arzybos/?occurrence=2026-12-12
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Futsal varžybos
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

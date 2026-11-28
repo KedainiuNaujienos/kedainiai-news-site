@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Renginiai Kedainiu Rajone//LT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:e4f5d9a801789b4c@renginiaikedainiuose.lt
+DTSTAMP:20261128T161055Z
+DTSTART:20261209T160000Z
+DTEND:20261209T170000Z
+SUMMARY:Šventinis Padėkos vakaras „Iš širdies į širdį“. Vakaro s
+ večias Valdas Lacko
+LOCATION:Kėdainių kultūros centro Pelėdnagių skyrius\, - V. Konceviči
+ aus g. 3\, Pelėdnagiai\, Pelėdnagių sen.\, Kėdainių r.
+URL:https://kedainiai.lt/renginiai/244/sventinis-padekos-vakaras-is-sirdies
+ -i-sirdi.-vakaro-svecias-valdas-lacko/event-9772
+DESCRIPTION:Renginio adresas - V. Koncevičiaus g. 3\, Pelėdnagiai\, Pelė
+ dnagių sen.\, Kėdainių r. Renginio organizatorius - Kėdainių kultūro
+ s centro Pelėdnagių skyrius *Nemokamas renginys\n\nDaugiau: https://keda
+ iniai.lt/renginiai/244/sventinis-padekos-vakaras-is-sirdies-i-sirdi.-vakar
+ o-svecias-valdas-lacko/event-9772
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Šventinis Padėkos vakaras „Iš širdies į širdį“. Vaka
+ ro svečias Valdas Lacko
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

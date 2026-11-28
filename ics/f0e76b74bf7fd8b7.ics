@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Renginiai Kedainiu Rajone//LT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:f0e76b74bf7fd8b7@renginiaikedainiuose.lt
+DTSTAMP:20261128T161055Z
+DTSTART:20261203T140000Z
+DTEND:20261204T140000Z
+SUMMARY:Advento kūrybinės dirbtuvės „Šviesos laukimas: šilko ir spal
+ vų magija“
+LOCATION:Gudžiūnų bendruomenės namai\, - Tujų g. 54 \, Gudžiūnai\, K
+ ėdainių r.
+URL:https://kedainiai.lt/renginiai/244/advento-kurybines-dirbtuves-sviesos-
+ laukimas-silko-ir-spalvu-magija/event-9698
+DESCRIPTION:Renginio adresas - Tujų g. 54 \, Gudžiūnai\, Kėdainių r. R
+ enginio organizatorius - Akademijos kultūros centro Gudžiūnų skyrius *
+ Nemokamas renginys Edukaciniai teoriniai ir praktiniai mokymai su edukator
+ e\, menininke Estela Žukauskiene\n\nDaugiau: https://kedainiai.lt/rengini
+ ai/244/advento-kurybines-dirbtuves-sviesos-laukimas-silko-ir-spalvu-magija
+ /event-9698
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Advento kūrybinės dirbtuvės „Šviesos laukimas: šilko ir 
+ spalvų magija“
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

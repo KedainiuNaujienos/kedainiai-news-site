@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Renginiai Kedainiu Rajone//LT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:d3829f533e69856b@renginiaikedainiuose.lt
+DTSTAMP:20261128T161055Z
+DTSTART:20261207T160000Z
+DTEND:20261207T170000Z
+SUMMARY:Edukacija „Advento žiburėlis"
+LOCATION:Pagirių skyrius\, Liepų g. 21\, Pagiriai\, Šėtos sen. Kėdaini
+ ų r.\, 58486
+URL:https://www.setoskultura.lt/renginiai/edukacija-advento-ziburelis/
+DESCRIPTION:Advento vakarų ramybėje kviesime prisiliesti prie natūralių
+  bičių dovanų ir lietuviškų rankdarbių tradicijų – iš bičių va
+ ško vaškuolių savo rankomis susukti žvakeles. Kūrybos metu susipažin
+ sime su bičių vašku\, jo savybėmis ir žvakių simboline reikšme mūs
+ ų kultūroje. Kiekvienas dalyvis susikurs savąjį Advento žiburėlį\, 
+ kuris primins apie namų šilumą\, bendrystę ir šviesos laukimą.\n\nDa
+ ugiau: https://www.setoskultura.lt/renginiai/edukacija-advento-ziburelis/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Edukacija „Advento žiburėlis"
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

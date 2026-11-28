@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Renginiai Kedainiu Rajone//LT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:daa7dc9569feaa3a@renginiaikedainiuose.lt
+DTSTAMP:20261128T161055Z
+DTSTART:20261201T100000Z
+DTEND:20261202T100000Z
+SUMMARY:Dailininkės grafikės Lauros Baltijūtės grafikos darbų paroda 
+ „Kuždesiai"
+LOCATION:Krakių kultūros centras\, - Laisvės a. 1\, Krakės\, Kėdainių
+  r.
+URL:https://kedainiai.lt/renginiai/244/dailininkes-grafikes-lauros-baltijut
+ es-grafikos-darbu-paroda-kuzdesiai/event-9719
+DESCRIPTION:Renginio adresas - Laisvės a. 1\, Krakės\, Kėdainių r. Reng
+ inio organizatorius - Krakių kultūros centras *Parodos lankymas nemokama
+ s\n\nDaugiau: https://kedainiai.lt/renginiai/244/dailininkes-grafikes-laur
+ os-baltijutes-grafikos-darbu-paroda-kuzdesiai/event-9719
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Dailininkės grafikės Lauros Baltijūtės grafikos darbų paro
+ da „Kuždesiai"
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

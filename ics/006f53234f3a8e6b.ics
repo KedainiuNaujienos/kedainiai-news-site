@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Renginiai Kedainiu Rajone//LT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:006f53234f3a8e6b@renginiaikedainiuose.lt
+DTSTAMP:20261128T161055Z
+DTSTART:20261204T160000Z
+DTEND:20261204T180000Z
+SUMMARY:Šokio spektaklis „Žvėrių karnavalas"
+LOCATION:Akademijos kultūros centras\, - Stoties g. 9\, Akademija\, Kėdai
+ nių r.
+URL:https://kedainiai.lt/renginiai/244/sokio-spektaklis-zveriu-karnavalas/e
+ vent-9691
+DESCRIPTION:Renginio adresas - Stoties g. 9\, Akademija\, Kėdainių r. Ren
+ ginio organizatorius - Akademijos kultūros centras Akademijos kultūros c
+ entro jaunųjų šokėjų spektaklis *Nemokamas renginys\n\nDaugiau: https
+ ://kedainiai.lt/renginiai/244/sokio-spektaklis-zveriu-karnavalas/event-969
+ 1
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Šokio spektaklis „Žvėrių karnavalas"
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

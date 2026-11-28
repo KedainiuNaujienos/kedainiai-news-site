@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Renginiai Kedainiu Rajone//LT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:475f08e86bd2fb58@renginiaikedainiuose.lt
+DTSTAMP:20261128T161055Z
+DTSTART:20261203T150000Z
+DTEND:20261203T170000Z
+SUMMARY:Advento dirbtuvių „Kėdainių herbo simboliai amatuose“ edukac
+ ija „Pinutis iš vytelių“
+LOCATION:Tradicinių amatų centras Arnetų name\, - Radvilų g. 21\, Kėda
+ iniai
+URL:https://kedainiai.lt/renginiai/244/advento-dirbtuviu-kedainiu-herbo-sim
+ boliai-amatuose-edukacija-pinutis-is-vyteliu/event-9739
+DESCRIPTION:Renginio adresas - Radvilų g. 21\, Kėdainiai Renginio organiz
+ atorius - Tradicinių amatų centras Arnetų name *Dalyvavimas nemokamas R
+ eikalinga registracija tel. +370 645 05168 Daugiau informacijos\n\nDaugiau
+ : https://kedainiai.lt/renginiai/244/advento-dirbtuviu-kedainiu-herbo-simb
+ oliai-amatuose-edukacija-pinutis-is-vyteliu/event-9739
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Advento dirbtuvių „Kėdainių herbo simboliai amatuose“ ed
+ ukacija „Pinutis iš vytelių“
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Renginiai Kedainiu Rajone//LT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:40e671dc321c75b8@renginiaikedainiuose.lt
+DTSTAMP:20261128T161055Z
+DTSTART:20261128T130000Z
+DTEND:20261128T143000Z
+SUMMARY:Roko Zubovo ir Sonatos Deveikytės – Zubovienės fortepijoninio d
+ ueto koncertas „M. K.Čiurlionis miške su E. Griegu ir A. Dvoržaku“
+LOCATION:Daugiakultūris centras\, Paeismilgio g. 12b\, Kėdainiai
+URL:https://kedainiumuziejus.lt/renginiai/roko-zubovo-ir-sonatos-deveikytes
+ -zubovienes-fortepijoninio-dueto-koncertas-m-k-ciurlionis-miske-su-e-grieg
+ u-ir-a-dvorzaku/
+DESCRIPTION:Description Lapkričio 28 d. 15 val. Daugiakultūriame centre (
+ Paeismilgio g.12b) Roko Zubovo ir Sonatos Deveikytės - Zubovienės fortep
+ ijoninio dueto koncertas „M.… More\n\nDaugiau: https://kedainiumuzieju
+ s.lt/renginiai/roko-zubovo-ir-sonatos-deveikytes-zubovienes-fortepijoninio
+ -dueto-koncertas-m-k-ciurlionis-miske-su-e-griegu-ir-a-dvorzaku/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Roko Zubovo ir Sonatos Deveikytės – Zubovienės fortepijonin
+ io dueto koncertas „M. K.Čiurlionis miške su E. Griegu ir A. Dvoržaku
+ “
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

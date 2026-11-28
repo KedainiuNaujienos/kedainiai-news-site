@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Renginiai Kedainiu Rajone//LT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:69f7250960d135ca@renginiaikedainiuose.lt
+DTSTAMP:20261128T161055Z
+DTSTART:20261203T170000Z
+DTEND:20261203T180000Z
+SUMMARY:Advento vakaronė su Baisogalos kultūros centro folkloro ansambliu
+  „Dainoriai“
+LOCATION:Pajieslio daugiafunkcis centras\, - Ateities g. 2\, Pajieslys\, K
+ ėdainių r.
+URL:https://kedainiai.lt/renginiai/244/advento-vakarone-su-baisogalos-kultu
+ ros-centro-folkloro-ansambliu-dainoriai/event-9723
+DESCRIPTION:Renginio adresas - Ateities g. 2\, Pajieslys\, Kėdainių r. Re
+ nginio organizatoriai - Krakių kultūros centras ir Pajieslio bendruomen
+ ės centras *Renginys nemokamas\n\nDaugiau: https://kedainiai.lt/renginiai
+ /244/advento-vakarone-su-baisogalos-kulturos-centro-folkloro-ansambliu-dai
+ noriai/event-9723
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Advento vakaronė su Baisogalos kultūros centro folkloro ansam
+ bliu „Dainoriai“
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

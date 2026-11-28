@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Renginiai Kedainiu Rajone//LT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:3b4def8b33d450c5@renginiaikedainiuose.lt
+DTSTAMP:20261128T161055Z
+DTSTART:20261128T150000Z
+DTEND:20261128T170000Z
+SUMMARY:Spektaklis „Vieno vakaro uošviai“
+LOCATION:Kėdainių kultūros centras
+URL:https://www.kedainiukulturoscentras.lt/renginiai/spektaklis-vieno-vakar
+ o-uosviai/
+DESCRIPTION:Daugiau: https://www.kedainiukulturoscentras.lt/renginiai/spekt
+ aklis-vieno-vakaro-uosviai/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Spektaklis „Vieno vakaro uošviai“
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

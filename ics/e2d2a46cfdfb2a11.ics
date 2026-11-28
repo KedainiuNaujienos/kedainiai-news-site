@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Renginiai Kedainiu Rajone//LT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:e2d2a46cfdfb2a11@renginiaikedainiuose.lt
+DTSTAMP:20261128T161055Z
+DTSTART:20261226T160000Z
+DTEND:20261226T190000Z
+SUMMARY:Padėkos vakaras „Kalėdinė simfonija“
+LOCATION:Kėdainių kultūros centro Labūnavos skyrius\, - Barupės g. 9\,
+  Labūnava\, Pelėdnagių sen.\, Kėdainių r.
+URL:https://kedainiai.lt/renginiai/244/padekos-vakaras-kaledine-simfonija/e
+ vent-9765
+DESCRIPTION:Renginio adresas - Barupės g. 9\, Labūnava\, Pelėdnagių sen
+ .\, Kėdainių r. Renginio organizatorius - Kėdainių kultūros centro La
+ būnavos skyrius *Nemokamas renginys\n\nDaugiau: https://kedainiai.lt/reng
+ iniai/244/padekos-vakaras-kaledine-simfonija/event-9765
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Padėkos vakaras „Kalėdinė simfonija“
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

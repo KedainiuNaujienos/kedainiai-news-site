@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Renginiai Kedainiu Rajone//LT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:e2094e2124b719a7@renginiaikedainiuose.lt
+DTSTAMP:20261128T161055Z
+DTSTART:20261129T080000Z
+DTEND:20261129T130000Z
+SUMMARY:Nemokamas muziejų lankymas
+LOCATION:Kėdainių krašto muziejus\, Daugiakultūris centras\, 1863 metų
+  sukilimo muziejus Paberžėje\, kunigaikščių Radvilų mauzoliejus\, - 
+ Didžioji g. 19\, Kėdainiai
+URL:https://kedainiai.lt/renginiai/244/nemokamas-muzieju-lankymas/event-961
+ 2
+DESCRIPTION:Renginio adresas - Didžioji g. 19\, Kėdainiai Renginio organi
+ zatorius - Kėdainių krašto muziejus Kiekvieno mėnesio paskutinį sekma
+ dienį Kėdainių krašto muziejuje bei jo padaliniuose lankykitės nemoka
+ mai\n\nDaugiau: https://kedainiai.lt/renginiai/244/nemokamas-muzieju-lanky
+ mas/event-9612
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Nemokamas muziejų lankymas
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

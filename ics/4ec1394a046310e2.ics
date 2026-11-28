@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Renginiai Kedainiu Rajone//LT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:4ec1394a046310e2@renginiaikedainiuose.lt
+DTSTAMP:20261128T161055Z
+DTSTART:20261211T160000Z
+DTEND:20261211T180000Z
+SUMMARY:Josvainių miestelio Kalėdinės eglutės įžiebimo šventė
+LOCATION:Josvainių kultūros centro kiemas\, - Karių a. 3\, Josvainiai\, 
+ Kėdainių r.
+URL:https://kedainiai.lt/renginiai/244/josvainiu-miestelio-kaledines-eglute
+ s-iziebimo-svente/event-9707
+DESCRIPTION:Renginio adresas - Karių a. 3\, Josvainiai\, Kėdainių r. Ren
+ ginio organizatorius - Josvainių kultūros centras *Renginys nemokamas Mu
+ zikinė programa vaikams\, susitikimas su Kalėdų Seneliu. Visi kartu į
+ žiebsime Kalėdų eglutę Josvainiuose.\n\nDaugiau: https://kedainiai.lt/
+ renginiai/244/josvainiu-miestelio-kaledines-eglutes-iziebimo-svente/event-
+ 9707
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Josvainių miestelio Kalėdinės eglutės įžiebimo šventė
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

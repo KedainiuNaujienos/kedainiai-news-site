@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Renginiai Kedainiu Rajone//LT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:f8186175207170ee@renginiaikedainiuose.lt
+DTSTAMP:20261128T161055Z
+DTSTART:20261212T140000Z
+DTEND:20261212T160000Z
+SUMMARY:Advento ramybės melodijos. Atlikėjo Sasha Song giesmių ir dainų
+  programa
+LOCATION:Dotnuvos Viešpaties Apreiškimo Švč. Mergelei Marijai bažnyči
+ a\, - Vytauto g. 57 \, Dotnuvos mstl.\, Kėdainių r.
+URL:https://kedainiai.lt/renginiai/244/advento-ramybes-melodijos.-atlikejo-
+ sasha-song-giesmiu-ir-dainu-programa/event-9692
+DESCRIPTION:Renginio adresas - Vytauto g. 57 \, Dotnuvos mstl.\, Kėdainių
+  r. Renginio organizatorius - Akademijos kultūros centras 16 val. Šv.Mi
+ šios. Po mišių atlikėjo Sasha Song giesmių ir dainų programa *Nemoka
+ mas renginys\n\nDaugiau: https://kedainiai.lt/renginiai/244/advento-ramybe
+ s-melodijos.-atlikejo-sasha-song-giesmiu-ir-dainu-programa/event-9692
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Advento ramybės melodijos. Atlikėjo Sasha Song giesmių ir da
+ inų programa
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

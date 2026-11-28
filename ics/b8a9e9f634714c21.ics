@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Renginiai Kedainiu Rajone//LT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:b8a9e9f634714c21@renginiaikedainiuose.lt
+DTSTAMP:20261128T161055Z
+DTSTART:20261213T120000Z
+DTEND:20261213T133000Z
+SUMMARY:Kino filmas „Kalėdų nelaukiant“
+LOCATION:Kėdainių kultūros centras\, - J. Basanavičiaus g. 24\, Kėdain
+ iai
+URL:https://kedainiai.lt/renginiai/244/kino-filmas-kaledu-nelaukiant/event-
+ 9751
+DESCRIPTION:Renginio adresas - J. Basanavičiaus g. 24\, Kėdainiai Rengini
+ o organizatorius - UAB „Kadras 24“ *Bilietai ir daugiau informacijos\n
+ \nDaugiau: https://kedainiai.lt/renginiai/244/kino-filmas-kaledu-nelaukian
+ t/event-9751
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Kino filmas „Kalėdų nelaukiant“
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Renginiai Kedainiu Rajone//LT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:9c9535b5d58118db@renginiaikedainiuose.lt
+DTSTAMP:20261128T161055Z
+DTSTART:20261213T100000Z
+DTEND:20261213T110000Z
+SUMMARY:Pokalbių ciklo renginys „Fotografija. Atmintis\, žmogus\, vieta
+  ir dialogas su tapyba“
+LOCATION:Janinos Monkutės - Marks muziejus-galerija\, - J. Basanavičiaus 
+ g. 45\, Kėdainiai
+URL:https://kedainiai.lt/renginiai/244/pokalbiu-ciklo-renginys-fotografija.
+ -atmintis-zmogus-vieta-ir-dialogas-su-tapyba/event-9735
+DESCRIPTION:Renginio adresas - J. Basanavičiaus g. 45\, Kėdainiai Rengini
+ o organizatorius - Janinos Monkutės - Marks muziejus-galerija *Renginys n
+ emokamas Dalyvauja Marija Šileikaitė-Čičirkienė\, moderatorius prof. 
+ dr. Remigijus Venckus. Daugiau informacijos\n\nDaugiau: https://kedainiai.
+ lt/renginiai/244/pokalbiu-ciklo-renginys-fotografija.-atmintis-zmogus-viet
+ a-ir-dialogas-su-tapyba/event-9735
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pokalbių ciklo renginys „Fotografija. Atmintis\, žmogus\, v
+ ieta ir dialogas su tapyba“
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,32 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Renginiai Kedainiu Rajone//LT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:a48c63699289f382@renginiaikedainiuose.lt
+DTSTAMP:20261128T161055Z
+DTSTART:20261213T160000Z
+DTEND:20261213T180000Z
+SUMMARY:Advento vakaras Pernaravoje
+LOCATION:Pernaravos seniūnijos salė\, - J. Juškytės g. 26\, Pernarava\,
+  Pernaravos sen.\, Kėdainių r.
+URL:https://kedainiai.lt/renginiai/244/advento-vakaras-pernaravoje/event-97
+ 10
+DESCRIPTION:Renginio adresas - J. Juškytės g. 26\, Pernarava\, Pernaravos
+  sen.\, Kėdainių r. Renginio organizatorius - Josvainių kultūros centr
+ o Pernaravos skyrius *Renginys nemokamas Advento laikotarpio tradicijų\, 
+ dainų ir papročių pristatymas\, kviečiantis pajusti senųjų lietuviš
+ kų tradicijų dvasią\, atrasti bendrystės džiaugsmą ir prasmingai iš
+ gyventi Šventų Kalėdų laukimo laiką. Roko Kašėtos koncertinė dzūk
+ iškų dainų programa kviečianti pažinti Dzūkijos krašto muzikinį pa
+ veldą\, tarmės savitumą\, dainavimo tradicijas ir atrasti Lietuvos etno
+ kultūros įvairovę.\n\nDaugiau: https://kedainiai.lt/renginiai/244/adven
+ to-vakaras-pernaravoje/event-9710
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Advento vakaras Pernaravoje
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

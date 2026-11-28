@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Renginiai Kedainiu Rajone//LT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:861e2e7aa5f845c7@renginiaikedainiuose.lt
+DTSTAMP:20261128T161055Z
+DTSTART:20261220T140000Z
+DTEND:20261220T180000Z
+SUMMARY:Šventinis padėkos vakaras Akademijoje
+LOCATION:Akademijos kultūros centras\, - Stoties g. 9\, Akademija\, Kėdai
+ nių r.
+URL:https://kedainiai.lt/renginiai/244/sventinis-padekos-vakaras-akademijoj
+ e/event-9694
+DESCRIPTION:Renginio adresas - Stoties g. 9\, Akademija\, Kėdainių r. Ren
+ ginio organizatorius - Akademijos kultūros centras *Dalyvavimas su kvieti
+ mais Renginys skirtas Akademijos kultūros centro rėmėjams ir partneriam
+ s pagerbti už indėlį į kultūrinio gyvenimo puoselėjimą. Koncertinė
+ je programoje – violončelių trio „Melo-M“ (Latvija)\, Rūta Ščio
+ galovaitė ir baleto šokėjai. Renginio vedėja – Audra Avižiūtė\n\n
+ Daugiau: https://kedainiai.lt/renginiai/244/sventinis-padekos-vakaras-akad
+ emijoje/event-9694
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Šventinis padėkos vakaras Akademijoje
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,44 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Renginiai Kedainiu Rajone//LT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:4e464e3637441ba8@renginiaikedainiuose.lt
+DTSTAMP:20261128T161055Z
+DTSTART:20261217T160000Z
+DTEND:20261217T180000Z
+SUMMARY:Muzikinis spektaklis „Laisvi drugeliai“
+LOCATION:Kėdainių kultūros centras\, - J. Basanavičiaus 24\, Kėdainiai
+  * Bilietai ir daugiau informacijos Legendinis muzikinis spektaklis „Lai
+ svi drugeliai“ atgimsta naujai — brandesnis\, muzikalesnis ir dar arti
+ mesnis šiandienos žiūrovui. Tai istorija apie laisvę\, meilę ir drąs
+ ą būti savimi\, tūkstančius žiūrovų privertusi juoktis\, susimąsty
+ ti ir patikėti\, kad tikra laisvė prasideda nuo sprendimo gyventi savo g
+ yvenimą. Šiame spektaklyje ypatingą emocinę patirtį kuria Manto Janka
+ vičiaus gyvai atliekamos dainos. Daug kam gerai pažįstama daina „Drug
+ eliai laisvi“\, tačiau ne visi žino\, kad ji buvo sukurta būtent spek
+ takliui „Laisvi drugeliai“. Žinoma\, dainą išgirsite ir šiame past
+ atyme – ji jau tapo neatsiejama spektaklio dalimi. Taip pat žiūrovai i
+ šgirs ir naują Manto kūrybą\, kuri praturtins istoriją ir leis panirt
+ i į personažų vidinį pasaulį.
+URL:https://kedainiai.lt/renginiai/244/muzikinis-spektaklis-laisvi-drugelia
+ i/event-9032
+DESCRIPTION:Renginio organizatorius - Meno upė\, MB Renginio adresas - J. 
+ Basanavičiaus 24\, Kėdainiai * Bilietai ir daugiau informacijos Legendin
+ is muzikinis spektaklis „Laisvi drugeliai“ atgimsta naujai — brandes
+ nis\, muzikalesnis ir dar artimesnis šiandienos žiūrovui. Tai istorija 
+ apie laisvę\, meilę ir drąsą būti savimi\, tūkstančius žiūrovų p
+ rivertusi juoktis\, susimąstyti ir patikėti\, kad tikra laisvė prasided
+ a nuo sprendimo gyventi savo gyvenimą. Šiame spektaklyje ypatingą emoci
+ nę patirtį kuria Manto Jankavičiaus gyvai atliekamos dainos. Daug kam g
+ erai pažįstama daina „Drugeliai laisvi“\, tačiau ne visi…\n\nDaug
+ iau: https://kedainiai.lt/renginiai/244/muzikinis-spektaklis-laisvi-drugel
+ iai/event-9032
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Muzikinis spektaklis „Laisvi drugeliai“
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

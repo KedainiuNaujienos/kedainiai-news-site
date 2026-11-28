@@ -1,0 +1,33 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Renginiai Kedainiu Rajone//LT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:32fac8617c8c90df@renginiaikedainiuose.lt
+DTSTAMP:20261128T161055Z
+DTSTART:20261205T140000Z
+DTEND:20261205T160000Z
+SUMMARY:Urbo NKL rungtynės Kėdainių „Kėdainiai BC“ – Šakių „V
+ ytis-VDU“
+LOCATION:Kėdainių sporto centras\, – Parko g. 4\, Vilainių sen.\, Kėd
+ ainių r.
+URL:https://kedainiai.lt/renginiai/244/urbo-nkl-rungtynes-kedainiu-kedainia
+ i-bc-sakiu-vytis-vdu/event-9653
+DESCRIPTION:Renginio adresas – Parko g. 4\, Vilainių sen.\, Kėdainių r
+ . Renginio organizatorius – VšĮ „Kėdainių krepšinis“ Bilietus p
+ latina: ticketmarket.lt Visi Kėdainių rajono mokiniai\, pateikę mokslei
+ vio pažymėjimą\, senjorai ir vaikai iki 7 metų įleidžiami nemokamai.
+  Bilietus varžybų vietoje bus galima įsigyti atsiskaitant tik banko kor
+ tele. Taip pat bilietus galėsite įsigyti internetu\, naudodamiesi savo t
+ elefonu. Svarbu: atsiskaitymas grynaisiais pinigais renginio vietoje negal
+ imas.\n\nDaugiau: https://kedainiai.lt/renginiai/244/urbo-nkl-rungtynes-ke
+ dainiu-kedainiai-bc-sakiu-vytis-vdu/event-9653
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Urbo NKL rungtynės Kėdainių „Kėdainiai BC“ – Šakių 
+ „Vytis-VDU“
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Renginiai Kedainiu Rajone//LT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:a611c9f666b93d26@renginiaikedainiuose.lt
+DTSTAMP:20261128T161055Z
+DTSTART:20261208T140000Z
+DTEND:20261208T170000Z
+SUMMARY:Advento vakaras „Oi an lauko…”
+LOCATION:Gudžiūnų bendruomenės namai\, - Tujų g. 54\, Gudžiūnai\, K
+ ėdainių r.
+URL:https://kedainiai.lt/renginiai/244/advento-vakaras-oi-an-lauko.../event
+ -9700
+DESCRIPTION:Renginio adresas - Tujų g. 54\, Gudžiūnai\, Kėdainių r. Re
+ nginio organizatorius - Akademijos kultūros centro Gudžiūnų skyrius *N
+ emokamas renginys Ansamblis „LAV Trio“ (Loreta Sungailienė - vokalas\
+ , tradicinės kanklės\, renginio vedėja\, Aistė Bružaitė - koncertin
+ ės kanklės\, Vytautas Pilibavičius - trombonas\, aranžuočių autorius
+ ).\n\nDaugiau: https://kedainiai.lt/renginiai/244/advento-vakaras-oi-an-la
+ uko.../event-9700
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Advento vakaras „Oi an lauko…”
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

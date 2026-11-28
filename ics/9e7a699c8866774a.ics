@@ -1,0 +1,33 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Renginiai Kedainiu Rajone//LT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:9e7a699c8866774a@renginiaikedainiuose.lt
+DTSTAMP:20261128T161055Z
+DTSTART:20261210T153000Z
+DTEND:20261210T163000Z
+SUMMARY:Vaidybinis muzikinis Ilonos Skujaitės istorinio romano „Nemeilė
+ “ pristatymas
+LOCATION:M. Daukšos viešoji biblioteka\, - Didžiosios Rinkos a. 5\, Kėd
+ ainiai
+URL:https://kedainiai.lt/renginiai/244/vaidybinis-muzikinis-ilonos-skujaite
+ s-istorinio-romano-nemeile-pristatymas/event-9716
+DESCRIPTION:Renginio adresas - Didžiosios Rinkos a. 5\, Kėdainiai Rengini
+ o organizatorius – Kėdainių rajono savivaldybės M. Daukšos viešoji 
+ biblioteka *Renginys nemokamas Tai teatralizuotas vakaras su rašytoja Ilo
+ na Skujaite ir aktore Emilija Latėnaite\, kuriame karalienės Onos Jogail
+ aitės pasaulis atsivers per literatūrinį tekstą\, istoriją\, gyvai at
+ liekamą renesansinę muziką\, stulbinančio grožio karališkas sukneles
+  ir scenos magiją.\n\nDaugiau: https://kedainiai.lt/renginiai/244/vaidybi
+ nis-muzikinis-ilonos-skujaites-istorinio-romano-nemeile-pristatymas/event-
+ 9716
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Vaidybinis muzikinis Ilonos Skujaitės istorinio romano „Neme
+ ilė“ pristatymas
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

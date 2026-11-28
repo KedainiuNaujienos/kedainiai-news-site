@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Renginiai Kedainiu Rajone//LT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:34efd6669d7eb0fd@renginiaikedainiuose.lt
+DTSTAMP:20261128T161055Z
+DTSTART:20261213T090000Z
+DTEND:20261213T103000Z
+SUMMARY:Kino filmas „„Kalėdų Senelio dirbtuvės“
+LOCATION:Kėdainių kultūros centras\, - J. Basanavičiaus g. 24\, Kėdain
+ iai
+URL:https://kedainiai.lt/renginiai/244/kino-filmas-kaledu-senelio-dirbtuves
+ /event-9750
+DESCRIPTION:Renginio adresas - J. Basanavičiaus g. 24\, Kėdainiai Rengini
+ o organizatorius - UAB „Kadras 24“ *Bilietai ir daugiau informacijos\n
+ \nDaugiau: https://kedainiai.lt/renginiai/244/kino-filmas-kaledu-senelio-d
+ irbtuves/event-9750
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Kino filmas „„Kalėdų Senelio dirbtuvės“
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Renginiai Kedainiu Rajone//LT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:e2f485626ef4e60a@renginiaikedainiuose.lt
+DTSTAMP:20261128T161055Z
+DTSTART:20261206T150000Z
+DTEND:20261206T160000Z
+SUMMARY:Susitikimas su Kalėdų Seneliu ir Nociūnų Kalėdų eglės įžie
+ bimas
+LOCATION:Prie parduotuvės „Aibė“ (Nociūnuose)\, - Pėdžių g. 1\, N
+ ociūnų k.\, Pelėdnagių sen.\, Kėdainių r.
+URL:https://kedainiai.lt/renginiai/244/susitikimas-su-kaledu-seneliu-ir-noc
+ iunu-kaledu-egles-iziebimas/event-9767
+DESCRIPTION:Renginio adresas - Pėdžių g. 1\, Nociūnų k.\, Pelėdnagių
+  sen.\, Kėdainių r. Renginio organizatorius - Kėdainių kultūros centr
+ o Nociūnų skyrius *Nemokamas renginys\n\nDaugiau: https://kedainiai.lt/r
+ enginiai/244/susitikimas-su-kaledu-seneliu-ir-nociunu-kaledu-egles-iziebim
+ as/event-9767
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Susitikimas su Kalėdų Seneliu ir Nociūnų Kalėdų eglės į
+ žiebimas
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

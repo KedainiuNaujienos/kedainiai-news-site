@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Renginiai Kedainiu Rajone//LT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:064afbfdbc6af5ba@renginiaikedainiuose.lt
+DTSTAMP:20261128T161055Z
+DTSTART:20261206T140000Z
+DTEND:20261206T150000Z
+SUMMARY:Kūrybinės dirbtuvėlės „Kalėdinis atvirukas“
+LOCATION:Kėdainių kultūros centro Nociūnų skyrius\, - Pėdžių g. 19\
+ , Nociūnų k.\, Pelėdnagių sen.\, Kėdainių r.
+URL:https://kedainiai.lt/renginiai/244/kurybines-dirbtuveles-kaledinis-atvi
+ rukas/event-9766
+DESCRIPTION:Renginio adresas - Pėdžių g. 19\, Nociūnų k.\, Pelėdnagi
+ ų sen.\, Kėdainių r. Renginio organizatorius - Kėdainių kultūros cen
+ tro Nociūnų skyrius *Nemokamas renginys\n\nDaugiau: https://kedainiai.lt
+ /renginiai/244/kurybines-dirbtuveles-kaledinis-atvirukas/event-9766
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Kūrybinės dirbtuvėlės „Kalėdinis atvirukas“
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

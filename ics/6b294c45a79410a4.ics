@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Renginiai Kedainiu Rajone//LT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6b294c45a79410a4@renginiaikedainiuose.lt
+DTSTAMP:20261128T161055Z
+DTSTART:20261205T120000Z
+DTEND:20261205T130000Z
+SUMMARY:Advento popietė su Žemynos kanklių grupe
+LOCATION:Krakių kultūros centras\, - Laisvės a. 1\, Krakės\, Kėdainių
+  r.
+URL:https://krakiukc.lt/project/advento-popiete-su-zemynos-kankliu-grupe/
+DESCRIPTION:Gruodžio 5 d. 14 val. kviečiame visus į jaukią advento popi
+ etę\, skirtą Kanklių metams paminėti. Žemynos kanklių grupė susibū
+ rė 2020 m. pavasarį\,…\n\nDaugiau: https://krakiukc.lt/project/advento
+ -popiete-su-zemynos-kankliu-grupe/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Advento popietė su Žemynos kanklių grupe
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

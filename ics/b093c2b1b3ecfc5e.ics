@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Renginiai Kedainiu Rajone//LT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:b093c2b1b3ecfc5e@renginiaikedainiuose.lt
+DTSTAMP:20261128T161055Z
+DTSTART:20261226T110000Z
+DTEND:20261226T180000Z
+SUMMARY:Kalėdinis traukinukas
+LOCATION:Kėdainių senamiestis\, - Didžiosios Rinkos aikštė
+URL:https://kedainiai.lt/renginiai/244/kaledinis-traukinukas/event-9666
+DESCRIPTION:Renginio adresas - Didžiosios Rinkos aikštė Renginio organiz
+ atorius - Kėdainių kultūros centras *Nemokamas renginys\n\nDaugiau: htt
+ ps://kedainiai.lt/renginiai/244/kaledinis-traukinukas/event-9666
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Kalėdinis traukinukas
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

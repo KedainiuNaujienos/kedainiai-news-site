@@ -1,0 +1,37 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Renginiai Kedainiu Rajone//LT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:a3aad33fc3dfbfcc@renginiaikedainiuose.lt
+DTSTAMP:20261128T161055Z
+DTSTART:20261219T120000Z
+DTEND:20261219T124500Z
+SUMMARY:VŠĮ Katino Murklio teatro lėlių spektaklis „Ypatingas berniuk
+ as Nukas" pagal Audros Baranauskaitės knygą „Nukas"
+LOCATION:Josvainių kultūros centras\, - Karių a. 3\, Josvainiai\, Kėdai
+ nių r.
+URL:https://kedainiai.lt/renginiai/244/vsi-katino-murklio-teatro-leliu-spek
+ taklis-ypatingas-berniukas-nukas-pagal-audros-baranauskaites-knyga-nukas/e
+ vent-9712
+DESCRIPTION:Renginio adresas - Karių a. 3\, Josvainiai\, Kėdainių r. Ren
+ ginio organizatorius - Josvainių kultūros centras *Renginys nemokamas Sp
+ ektaklis skirtas miestelio vaikams ir jų šeimoms\, siekiant skatinti vai
+ kų kultūrinį pažinimą\, kūrybiškumą\, vaizduotę bei empatiją. Vi
+ eną dieną Nukas negirdi\, o kitą - nemato. Negana to\, jam nutinka laba
+ i keistų dalykų. Kokių? Sužinosite pamatę spektaklį apie ypatingą b
+ erniuką Nuką. Linksmas\, įtraukiantis lėlių\, šešėlių ir objektų
+  spektaklis visai šeimai apie ypatingą berniuką Nuką. Spektaklio metu 
+ skamba gyvai atliekamos autorinės dainos\, vaizduotę žadina paprasti…
+ \n\nDaugiau: https://kedainiai.lt/renginiai/244/vsi-katino-murklio-teatro-
+ leliu-spektaklis-ypatingas-berniukas-nukas-pagal-audros-baranauskaites-kny
+ ga-nukas/event-9712
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:VŠĮ Katino Murklio teatro lėlių spektaklis „Ypatingas ber
+ niukas Nukas" pagal Audros Baranauskaitės knygą „Nukas"
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

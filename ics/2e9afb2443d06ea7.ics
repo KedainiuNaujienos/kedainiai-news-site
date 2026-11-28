@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Renginiai Kedainiu Rajone//LT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2e9afb2443d06ea7@renginiaikedainiuose.lt
+DTSTAMP:20261128T161055Z
+DTSTART:20261201T150000Z
+DTEND:20261202T150000Z
+SUMMARY:Tarptautinė šiuolaikinio meno trienalė „Dialogai“
+LOCATION:Janinos Monkutės - Marks muziejus-galerija\, - J. Basanavičiaus 
+ g. 45\, Kėdainiai
+URL:https://kedainiai.lt/renginiai/244/tarptautine-siuolaikinio-meno-triena
+ le-dialogai/event-9733
+DESCRIPTION:Renginio adresas - J. Basanavičiaus g. 45\, Kėdainiai Rengini
+ o organizatorius - Janinos Monkutės - Marks muziejus-galerija *Lankymas n
+ emokamas Paroda veiks iki 2027 m. sausio 31 d. Trienalė skirta Janinai Mo
+ nkutei – Marks ir Kėdainiams Daugiau informacijos\n\nDaugiau: https://k
+ edainiai.lt/renginiai/244/tarptautine-siuolaikinio-meno-trienale-dialogai/
+ event-9733
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tarptautinė šiuolaikinio meno trienalė „Dialogai“
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

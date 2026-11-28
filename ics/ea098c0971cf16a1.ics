@@ -1,0 +1,37 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Renginiai Kedainiu Rajone//LT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:ea098c0971cf16a1@renginiaikedainiuose.lt
+DTSTAMP:20261128T161055Z
+DTSTART:20261218T160000Z
+DTEND:20261218T200000Z
+SUMMARY:Lietuvos kultūros sostinės 2026 uždarymo renginys
+LOCATION:Kėdainių arena\, - J. Basanavičiaus 1A\, Kėdainiai *Renginys n
+ emokamas Daugiau informacijos Radvilų laikų didybė\, nūdienos technolo
+ gijų pulsas ir vis dar nežinomas rytojaus kodas\, kurį rašome šiandie
+ n. Misterijoje „Ko nesapnavo Radvilos: Ateities Kodas“ dirbtinio intel
+ ekto ir sparčiai besivystančių technologijų žvilgsnis į besikeičian
+ tį miestą ir mus pačius. Jungiant skirtingus žanrus\, čia susitinka p
+ raeitis\, dabartis ir ateitis\, kurios sąveikaudamos kartu kviečia perm
+ ąstyti žmogų\, miestą ir simboliškai primena\, kad ateitį kuriame me
+ s patys.
+URL:https://kedainiuarena.lt/renginiai/lietuvos-kulturos-sostines-2026-uzda
+ rymo-renginys/?occurrence=2026-12-18
+DESCRIPTION:Nuo pradžios – Radvilų laikų didybės ir miesto ištakų\,
+  per eigastį – gyvą šiandienos Kėdainių pulsą\, iki augties – da
+ r tik gimstančio ateities kodo. Tradicinė sutartinė susitiks su repu\, 
+ istorijos ženklai atgims šiuolaikinėje madoje\, o šviesų ir lazerių 
+ ritmas susilies su gyvu daugiau nei 150 savanorių kuriamu reginiu. Praeit
+ is\, dabartis ir ateitis susipins misterijoje\, primindamos:\n\nDaugiau: h
+ ttps://kedainiuarena.lt/renginiai/lietuvos-kulturos-sostines-2026-uzdarymo
+ -renginys/?occurrence=2026-12-18
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Lietuvos kultūros sostinės 2026 uždarymo renginys
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

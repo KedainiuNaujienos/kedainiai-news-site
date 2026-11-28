@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Renginiai Kedainiu Rajone//LT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:e2e6a80fdc631a36@renginiaikedainiuose.lt
+DTSTAMP:20261128T161055Z
+DTSTART:20261129T140000Z
+DTEND:20261129T150000Z
+SUMMARY:Advento koncertas „Atverkime gerumui širdis“
+LOCATION:Labūnavos skyrius\, Barupės g. 6
+URL:https://www.kedainiukulturoscentras.lt/renginiai/advento-koncertas-atve
+ rkime-gerumui-sirdis/
+DESCRIPTION:Renginys nemokamas.\n\nDaugiau: https://www.kedainiukulturoscen
+ tras.lt/renginiai/advento-koncertas-atverkime-gerumui-sirdis/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Advento koncertas „Atverkime gerumui širdis“
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

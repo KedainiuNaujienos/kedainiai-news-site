@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Renginiai Kedainiu Rajone//LT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:33ec7d5c72eec33e@renginiaikedainiuose.lt
+DTSTAMP:20261128T161055Z
+DTSTART:20261228T150000Z
+DTEND:20261228T160000Z
+SUMMARY:Manto Vyganto koncertas „Tavo gelmej akių“
+LOCATION:Pagirių skyrius\, Liepų g. 21\, Pagiriai\, Šėtos sen. Kėdaini
+ ų r.\, 58486
+URL:https://www.setoskultura.lt/renginiai/manto-vyganto-koncertas-tavo-gelm
+ ej-akiu/
+DESCRIPTION:Skambės gražiausios Manto Vyganto dainos.\n\nDaugiau: https:/
+ /www.setoskultura.lt/renginiai/manto-vyganto-koncertas-tavo-gelmej-akiu/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Manto Vyganto koncertas „Tavo gelmej akių“
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

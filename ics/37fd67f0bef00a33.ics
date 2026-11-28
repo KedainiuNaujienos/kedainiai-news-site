@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Renginiai Kedainiu Rajone//LT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:37fd67f0bef00a33@renginiaikedainiuose.lt
+DTSTAMP:20261128T161055Z
+DTSTART:20261219T130000Z
+DTEND:20261219T140000Z
+SUMMARY:Protmūšis jaunimui „Protas\, greitis\, kūryba“
+LOCATION:Kėdainių kultūros centro Nociūnų skyrius\, - Pėdžių g. 19\
+ , Nociūnų k.\, Pelėdnagių sen.\, Kėdainių r.
+URL:https://kedainiai.lt/renginiai/244/protmusis-jaunimui-protas-greitis-ku
+ ryba/event-9769
+DESCRIPTION:Renginio adresas - Pėdžių g. 19\, Nociūnų k.\, Pelėdnagi
+ ų sen.\, Kėdainių r. Renginio organizatorius - Kėdainių kultūros cen
+ tro Nociūnų skyrius *Nemokamas renginys\n\nDaugiau: https://kedainiai.lt
+ /renginiai/244/protmusis-jaunimui-protas-greitis-kuryba/event-9769
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Protmūšis jaunimui „Protas\, greitis\, kūryba“
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

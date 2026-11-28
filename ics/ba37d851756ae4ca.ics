@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Renginiai Kedainiu Rajone//LT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:ba37d851756ae4ca@renginiaikedainiuose.lt
+DTSTAMP:20261128T161055Z
+DTSTART:20261226T170000Z
+DTEND:20261226T200000Z
+SUMMARY:Kalėdos Kėdainiuose
+LOCATION:Kėdainių arena\, - J. Basanavičiaus 1A\, Kėdainiai
+URL:https://kedainiuarena.lt/renginiai/kaledos-kedainiuose/?occurrence=2026
+ -12-26
+DESCRIPTION:Gruodžio 26-ąją susitikime ypatingame Kalėdiniame vakare K
+ ėdainių arenoje\, kuriame net 2\,5 valandos gyvos muzikos\, šventinės 
+ nuotaikos ir gražiausių dainų! Scenoje – Sandra ir Viktoras su gyvo g
+ arso grupe\, renginį ves ir savo gražiausias dainas dovanos atlikėja La
+ iva\, o vakarą dar labiau įkaitins grupė „Bernužėliai“ su gyvo ga
+ rso grupe! Tai vakaras\, kuriame netrūks jaukios Kalėdų atmosferos\,\n\
+ nDaugiau: https://kedainiuarena.lt/renginiai/kaledos-kedainiuose/?occurren
+ ce=2026-12-26
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Kalėdos Kėdainiuose
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

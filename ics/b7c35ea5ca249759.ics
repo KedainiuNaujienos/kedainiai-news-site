@@ -1,0 +1,35 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Renginiai Kedainiu Rajone//LT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:b7c35ea5ca249759@renginiaikedainiuose.lt
+DTSTAMP:20261128T161055Z
+DTSTART:20261201T153000Z
+DTEND:20261201T160000Z
+SUMMARY:Jūratės Jodeikienės fotografijų parodos „SPARNUOTI SUSITIKIMA
+ I“ atidarymas
+LOCATION:Kėdainių kultūro centros Vilainių skyrius\, - Parko g. 6\, Vil
+ ainiai\, Kėdainių r.
+URL:https://www.kedainiukulturoscentras.lt/renginiai/jurates-jodeikienes-fo
+ tografiju-parodos-sparnuoti-susitikimai-atidarymas/
+DESCRIPTION:Renginio adresas - Parko g. 6\, Vilainiai\, Kėdainių r. Rengi
+ nio organizatorius - Kėdainių kultūros centro Vilainių skyrius *Rengin
+ ys nemokamas Jūratė Jodeikienė – verslo vadybos specialistė\, Kėdai
+ nių krašto ūkininkų sąjungos administratorė. Rimčiau fotografija su
+ sidomėjo prieš aštuonerius metus\, kai panoro įamžinti savo sodybos 
+ želdynus ir nuostabius saulėlydžius\, kurių gyvenant kaime atsiveria k
+ ur kas daugiau. Fotoaparatas Jūratę lydi visur – vykstant į darbą\, 
+ apsipirkti ar lankant tėviškę. Todėl nemažai įsimintinų kadrų gims
+ ta tiesiog kelionėse. Vis dėlto didžioji dalis fotografijų…\n\nDaugi
+ au: https://www.kedainiukulturoscentras.lt/renginiai/jurates-jodeikienes-f
+ otografiju-parodos-sparnuoti-susitikimai-atidarymas/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jūratės Jodeikienės fotografijų parodos „SPARNUOTI SUSITI
+ KIMAI“ atidarymas
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

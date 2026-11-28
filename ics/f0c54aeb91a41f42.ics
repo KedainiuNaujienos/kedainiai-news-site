@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Renginiai Kedainiu Rajone//LT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:f0c54aeb91a41f42@renginiaikedainiuose.lt
+DTSTAMP:20261128T161055Z
+DTSTART:20261204T153000Z
+DTEND:20261204T170000Z
+SUMMARY:Ansamblio PALEASIS koncertas „Muzika daugiakultūriams Kėdainiam
+ s“
+LOCATION:Daugiakultūris centras\, Paeismilgio g. 12b\, Kėdainiai
+URL:https://kedainiumuziejus.lt/renginiai/ansamblio-paleasis-koncertas-muzi
+ ka-daugiakulturiams-kedainiams/
+DESCRIPTION:Description Gruodžio 4 d. 17.30 val. Daugiakultūriame centre 
+ (Paeismilgio g. 12b) skambės ansamblio PALEASIS koncertas „Muzika daugi
+ akultūriams Kėdainiams“. DALYVAUJA: Ansamblis PALEASIS… More\n\nDaug
+ iau: https://kedainiumuziejus.lt/renginiai/ansamblio-paleasis-koncertas-mu
+ zika-daugiakulturiams-kedainiams/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ansamblio PALEASIS koncertas „Muzika daugiakultūriams Kėdai
+ niams“
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Renginiai Kedainiu Rajone//LT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:acaadc677909a35b@renginiaikedainiuose.lt
+DTSTAMP:20261128T161055Z
+DTSTART:20261206T140000Z
+DTEND:20261206T153000Z
+SUMMARY:Advento vakaras „Laukimo taku – šviesos pasitikti“
+LOCATION:Josvainių kultūros centras\, - Karių a. 3\, Josvainiai\, Kėdai
+ nių r.
+URL:https://kedainiai.lt/renginiai/244/advento-vakaras-laukimo-taku-sviesos
+ -pasitikti/event-9705
+DESCRIPTION:Renginio adresas - Karių a. 3\, Josvainiai\, Kėdainių r. Ren
+ ginio organizatorius - Josvainių kultūros centras *Renginys nemokamas Fo
+ lkloro ansamblio „Žalasys“ (Kėdainių kultūros centro Tiskūnų sky
+ rius) programa „Nuo lopšia iki smerčia“ atskleidžiantis lietuvišk
+ ų tradicijų ir žmogaus gyvenimo ciklo sąsajas. Susitikimas su vienuole
+  seserimi Faustina Elena kviečia pažinti Advento kelionę\, jos dvasinę
+  prasmę ir dovanas.\n\nDaugiau: https://kedainiai.lt/renginiai/244/advent
+ o-vakaras-laukimo-taku-sviesos-pasitikti/event-9705
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Advento vakaras „Laukimo taku – šviesos pasitikti“
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

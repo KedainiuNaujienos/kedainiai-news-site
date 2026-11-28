@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Renginiai Kedainiu Rajone//LT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:c096ebf061de5c7e@renginiaikedainiuose.lt
+DTSTAMP:20261128T161055Z
+DTSTART:20261204T160000Z
+DTEND:20261204T170000Z
+SUMMARY:Šėtos gyventojų kurtų eglučių kiemelio atidarymas
+LOCATION:Šėtos kultūros centras\, Kėdainių g. 6\, Šėta\, 58131
+URL:https://www.setoskultura.lt/renginiai/setos-gyventoju-kurtu-egluciu-kie
+ melio-atidarymas/
+DESCRIPTION:Kviečiame atvykti pasigrožėti ir apžiūrėti Šėtos mieste
+ lio gyventojų\, įstaigų\, įmonių kurtų eglučių kiemelio.\n\nDaugia
+ u: https://www.setoskultura.lt/renginiai/setos-gyventoju-kurtu-egluciu-kie
+ melio-atidarymas/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Šėtos gyventojų kurtų eglučių kiemelio atidarymas
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

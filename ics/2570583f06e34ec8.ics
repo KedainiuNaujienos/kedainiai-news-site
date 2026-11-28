@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Renginiai Kedainiu Rajone//LT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2570583f06e34ec8@renginiaikedainiuose.lt
+DTSTAMP:20261128T161055Z
+DTSTART:20261220T120000Z
+DTEND:20261220T140000Z
+SUMMARY:Futsal A lygos „Kėdainiai Futsal“ rungtynės
+LOCATION:Kėdainių arena\, – J. Basanavičiaus g. 1A\, Kėdainiai
+URL:https://kedainiai.lt/renginiai/244/futsal-a-lygos-kedainiai-futsal-rung
+ tynes/event-9660
+DESCRIPTION:Renginio adresas – J. Basanavičiaus g. 1A\, Kėdainiai Rengi
+ nio organizatorius – VšĮ „Kėdainių sporto idėjos“ *Renginys nem
+ okamas Atvykite palaikyti savo miesto salės futbolo komandą\, o galbūt 
+ pirmą kartą pamatyti kaip futbolas atrodo arenoje.\n\nDaugiau: https://k
+ edainiai.lt/renginiai/244/futsal-a-lygos-kedainiai-futsal-rungtynes/event-
+ 9660
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Futsal A lygos „Kėdainiai Futsal“ rungtynės
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

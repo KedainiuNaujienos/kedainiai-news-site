@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Renginiai Kedainiu Rajone//LT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:32449e52005241f7@renginiaikedainiuose.lt
+DTSTAMP:20261128T161055Z
+DTSTART:20261216T170000Z
+DTEND:20261216T190000Z
+SUMMARY:Lietuvos moterų krepšinio lygos rungtynės Kėdainių „Kėdaini
+ ų sporto centras“ – Kauno „VDU-KA Žalgiris“
+LOCATION:Kėdainių sporto centras\, – Parko g. 4\, Vilainių sen.\, Kėd
+ ainių r.
+URL:https://kedainiai.lt/renginiai/244/lietuvos-moteru-krepsinio-lygos-rung
+ tynes-kedainiu-kedainiu-sporto-centras-kauno-vdu-ka-zalgiris/event-9657
+DESCRIPTION:Renginio adresas – Parko g. 4\, Vilainių sen.\, Kėdainių r
+ . Renginio organizatorius – Kėdainių sporto centras *Renginys nemokama
+ s Kviečiame palaikyti mūsų miesto moterų lygos komandą.\n\nDaugiau: h
+ ttps://kedainiai.lt/renginiai/244/lietuvos-moteru-krepsinio-lygos-rungtyne
+ s-kedainiu-kedainiu-sporto-centras-kauno-vdu-ka-zalgiris/event-9657
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Lietuvos moterų krepšinio lygos rungtynės Kėdainių „Kėd
+ ainių sporto centras“ – Kauno „VDU-KA Žalgiris“
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

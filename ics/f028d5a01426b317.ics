@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Renginiai Kedainiu Rajone//LT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:f028d5a01426b317@renginiaikedainiuose.lt
+DTSTAMP:20261128T161055Z
+DTSTART:20261204T140000Z
+DTEND:20261204T150000Z
+SUMMARY:Padėkos savanoriams dienos šventė. Savanorių apdovanojimai
+LOCATION:Kėdainių kultūros centras\, - J. Basanavičiaus g. 24\, Kėdain
+ iai
+URL:https://kedainiai.lt/renginiai/244/padekos-savanoriams-dienos-svente.-s
+ avanoriu-apdovanojimai/event-9747
+DESCRIPTION:Renginio adresas - J. Basanavičiaus g. 24\, Kėdainiai Rengini
+ o organizatorius - Kėdainių rajono savivaldybė Šventės metu - solist
+ ų Eugenijaus Chrebtovo (baritonas)\, Viktorijos Zeilikovičiūtės (sopra
+ nas) ir pianistės Audronės Juozauskaitės koncertinė programa *Nemokama
+ s renginys\n\nDaugiau: https://kedainiai.lt/renginiai/244/padekos-savanori
+ ams-dienos-svente.-savanoriu-apdovanojimai/event-9747
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Padėkos savanoriams dienos šventė. Savanorių apdovanojimai
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Renginiai Kedainiu Rajone//LT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:fe044c59f044bf43@renginiaikedainiuose.lt
+DTSTAMP:20261128T161055Z
+DTSTART:20261212T130000Z
+DTEND:20261212T143000Z
+SUMMARY:Ryuichi Sakamoto – garsų poetas. Pianisto Dariaus Mažinto konce
+ rtas.
+LOCATION:Daugiakultūris centras\, Paeismilgio g. 12b\, Kėdainiai
+URL:https://kedainiumuziejus.lt/renginiai/ryuichi-sakamoto-garsu-poetas-pia
+ nisto-dariaus-mazinto-koncertas/
+DESCRIPTION:Description Gruodžio 12 d. 15 val. Daugiakultūriame centre sk
+ ambės nepaprasto jautrumo muzika – vieno ryškiausių mūsų laikų kom
+ pozitorių Ryuichi Sakamoto kūriniai… More\n\nDaugiau: https://kedainiu
+ muziejus.lt/renginiai/ryuichi-sakamoto-garsu-poetas-pianisto-dariaus-mazin
+ to-koncertas/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ryuichi Sakamoto – garsų poetas. Pianisto Dariaus Mažinto k
+ oncertas.
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

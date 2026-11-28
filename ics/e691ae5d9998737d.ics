@@ -1,0 +1,31 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Renginiai Kedainiu Rajone//LT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:e691ae5d9998737d@renginiaikedainiuose.lt
+DTSTAMP:20261128T161055Z
+DTSTART:20261128T090000Z
+DTEND:20261128T100000Z
+SUMMARY:Kūrybinis užsiėmimas „Namų dekoracija iš tekstilės atraiž
+ ų“
+LOCATION:M. Daukšos viešosios bibliotekos Pernaravos struktūrinis terito
+ rinis padalinys\, - J. Juškytės g. 26\, Pernarava\, Pernaravos sen.
+URL:https://kedainiai.lt/renginiai/244/kurybinis-uzsiemimas-namu-dekoracija
+ -is-tekstiles-atraizu/event-9523
+DESCRIPTION:Renginio adresas - J. Juškytės g. 26\, Pernarava\, Pernaravos
+  sen. Renginio organizatorius - Josvainių kultūros centro Pernaravos sky
+ rius *Renginys nemokamas Renginys skirtas suaugusiems ir vyresnio amžiaus
+  vaikams bei jaunimui. Visomis reikalingomis priemonėmis bus pasirūpinta
+ . Daugiau informacijos telefonu +370 674 49362\n\nDaugiau: https://kedaini
+ ai.lt/renginiai/244/kurybinis-uzsiemimas-namu-dekoracija-is-tekstiles-atra
+ izu/event-9523
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Kūrybinis užsiėmimas „Namų dekoracija iš tekstilės atra
+ ižų“
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

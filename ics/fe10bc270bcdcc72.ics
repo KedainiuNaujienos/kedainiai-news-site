@@ -1,0 +1,40 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Renginiai Kedainiu Rajone//LT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:fe10bc270bcdcc72@renginiaikedainiuose.lt
+DTSTAMP:20261128T161055Z
+DTSTART:20261212T160000Z
+DTEND:20261212T170000Z
+SUMMARY:Teatro komedija „Į darbą kaip į šventę“
+LOCATION:Kėdainių kultūros centras\, - J. Basanavičiaus 24\, Kėdainiai
+  *Bilietai i r daugiau informacijos Režisierius – Ričardas Vitkaitis V
+ aidina: Aušra Štukytė\, Neringa Varnelytė\, Andrius Bialobžeskis arba
+  Ramūnas Šimukauskas\, Julius Žalakevičius. Geros darbo dienos\, ar ta
+ i įmanoma? Juk dauguma darbo dienos pradžioje pradeda laukti jos pabaigo
+ s\, nes darbas tai ne pramoga\, o pinigų uždirbimo vieta. Ar galėtų b
+ ūti kitaip? Šį kartą AKTORIŲ teatras Jums pristato labai darbingą\, 
+ bet tuo pačiu ir atpalaiduojančią komediją Į DARBĄ KAIP Į ŠVENTĘ\
+ , pagal prancūzų autorės Isabelle Grolier pjesę „Laimingi darbe“.
+URL:https://kedainiai.lt/renginiai/244/teatro-komedija-i-darba-kaip-i-svent
+ e/event-9489
+DESCRIPTION:Renginio organizatorius - MB \,\,Scenos profesionalai” Rengin
+ io adresas - J. Basanavičiaus 24\, Kėdainiai *Bilietai i r daugiau infor
+ macijos Režisierius – Ričardas Vitkaitis Vaidina: Aušra Štukytė\, N
+ eringa Varnelytė\, Andrius Bialobžeskis arba Ramūnas Šimukauskas\, Jul
+ ius Žalakevičius. Geros darbo dienos\, ar tai įmanoma? Juk dauguma darb
+ o dienos pradžioje pradeda laukti jos pabaigos\, nes darbas tai ne pramog
+ a\, o pinigų uždirbimo vieta. Ar galėtų būti kitaip? Šį kartą AKTO
+ RIŲ teatras Jums pristato labai darbingą\, bet tuo pačiu ir atpalaiduoj
+ ančią komediją Į DARBĄ KAIP Į ŠVENTĘ\, pagal prancūzų…\n\nDaug
+ iau: https://kedainiai.lt/renginiai/244/teatro-komedija-i-darba-kaip-i-sve
+ nte/event-9489
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Teatro komedija „Į darbą kaip į šventę“
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Renginiai Kedainiu Rajone//LT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:c794c83399bbd2af@renginiaikedainiuose.lt
+DTSTAMP:20261128T161055Z
+DTSTART:20261215T150000Z
+DTEND:20261215T173000Z
+SUMMARY:Kalėdų eglutės įžiebimo šventė Krakėse
+LOCATION:Krakių kultūros centras\, - Laisvės a. 1\, Krakės\, Kėdainių
+  r.
+URL:https://krakiukc.lt/project/kaledu-eglutes-iziebimo-svente-krakese-3/
+DESCRIPTION:Visa informacija apie renginį jau netrukus\n\nDaugiau: https:/
+ /krakiukc.lt/project/kaledu-eglutes-iziebimo-svente-krakese-3/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Kalėdų eglutės įžiebimo šventė Krakėse
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

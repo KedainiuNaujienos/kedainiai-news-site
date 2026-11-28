@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Renginiai Kedainiu Rajone//LT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:35087b371c8fa5f8@renginiaikedainiuose.lt
+DTSTAMP:20261128T161055Z
+DTSTART:20261212T150000Z
+DTEND:20261212T160000Z
+SUMMARY:Surviliškio seniūnijos Padėkos vakaras „Ačiū\, kad šalia es
+ i…“
+LOCATION:Kėdainių kultūros centro Kalnaberžės skyrius\, - Beržų g. 6
+ 0\, Kalnaberžė\, Surviliškio sen.\, Kėdainių r.
+URL:https://kedainiai.lt/renginiai/244/surviliskio-seniunijos-padekos-vakar
+ as-aciu-kad-salia-esi.../event-9758
+DESCRIPTION:Renginio adresas - Beržų g. 60\, Kalnaberžė\, Surviliškio 
+ sen.\, Kėdainių r. Renginio organizatorius - Kėdainių kultūros centro
+  Kalnaberžės skyrius *Nemokamas renginys\n\nDaugiau: https://kedainiai.l
+ t/renginiai/244/surviliskio-seniunijos-padekos-vakaras-aciu-kad-salia-esi.
+ ../event-9758
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Surviliškio seniūnijos Padėkos vakaras „Ačiū\, kad šali
+ a esi…“
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

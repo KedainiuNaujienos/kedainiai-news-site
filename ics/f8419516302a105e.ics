@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Renginiai Kedainiu Rajone//LT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:f8419516302a105e@renginiaikedainiuose.lt
+DTSTAMP:20261128T161055Z
+DTSTART:20261219T100000Z
+DTEND:20261219T120000Z
+SUMMARY:Kalėdinė popietė Pajieslio bendruomenės vaikams ir jų tėvelia
+ ms
+LOCATION:Pajieslio daugiafunkcis centras\, - Ateities g. 2\, Pajieslys\, K
+ ėdainių r.
+URL:https://kedainiai.lt/renginiai/244/kaledine-popiete-pajieslio-bendruome
+ nes-vaikams-ir-ju-teveliams/event-9731
+DESCRIPTION:Renginio adresas - Ateities g. 2\, Pajieslys\, Kėdainių r. Re
+ nginio organizatoriai - Krakių kultūros centras ir Pajieslio bendruomen
+ ės centras *Renginys nemokamas\n\nDaugiau: https://kedainiai.lt/renginiai
+ /244/kaledine-popiete-pajieslio-bendruomenes-vaikams-ir-ju-teveliams/event
+ -9731
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Kalėdinė popietė Pajieslio bendruomenės vaikams ir jų tėv
+ eliams
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

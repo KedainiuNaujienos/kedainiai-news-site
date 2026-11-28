@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Renginiai Kedainiu Rajone//LT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:c9a7b88c4c36423e@renginiaikedainiuose.lt
+DTSTAMP:20261128T161055Z
+DTSTART:20261202T100000Z
+DTEND:20261203T100000Z
+SUMMARY:Deltuvos krašto moterų sambūrio „Ką akys pamatys-tą rankos p
+ adarys“ kūrybinių darbų paroda „Pabirusios sagos“
+LOCATION:Pajieslio daugiafunkcis centras\, - Ateities g. 2\, Pajieslys\, K
+ ėdainių r.
+URL:https://kedainiai.lt/renginiai/244/deltuvos-krasto-moteru-samburio-ka-a
+ kys-pamatys-ta-rankos-padarys-kurybiniu-darbu-paroda-pabirusios-sagos/even
+ t-9722
+DESCRIPTION:Renginio adresas - Ateities g. 2\, Pajieslys\, Kėdainių r. Re
+ nginio organizatorius - Krakių kultūros centras *Parodos lankymas nemoka
+ mas\n\nDaugiau: https://kedainiai.lt/renginiai/244/deltuvos-krasto-moteru-
+ samburio-ka-akys-pamatys-ta-rankos-padarys-kurybiniu-darbu-paroda-pabirusi
+ os-sagos/event-9722
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deltuvos krašto moterų sambūrio „Ką akys pamatys-tą rank
+ os padarys“ kūrybinių darbų paroda „Pabirusios sagos“
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

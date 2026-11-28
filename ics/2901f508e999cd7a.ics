@@ -1,0 +1,32 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Renginiai Kedainiu Rajone//LT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2901f508e999cd7a@renginiaikedainiuose.lt
+DTSTAMP:20261128T161055Z
+DTSTART:20261205T150000Z
+DTEND:20261205T170000Z
+SUMMARY:Eglės įžiebimo šventė
+LOCATION:Didžiosios Rinkos aikštė\, Kėdainiai\, - Didžiosios Rinkos ai
+ kštė
+URL:https://kedainiai.lt/renginiai/244/egles-iziebimo-svente/event-8634
+DESCRIPTION:Renginio adresas - Didžiosios Rinkos aikštė Renginio organiz
+ atorius - Kėdainių kultūros centras Daugiau informacijos Gruodžio 5-ą
+ ją kviečiame kurti SAVAS KALĖDAS Kėdainiuose! Susitikime Didžiosios R
+ inkos aikštėje\, kur kartu įžiebsime ne tik miesto eglę\, bet ir šve
+ ntinę nuotaiką savo širdyse. Šventės programa: 13.00 val. – Kalėdi
+ nė mugė 16.00 val. – Maltiečių sriuba 17.00 val. – Kalėdų Seneli
+ o sutikimas ir eglutės įžiebimas Šventinę nuotaiką dovanos „Žalia
+  vaikų kūdra“ bei Eglė ir Tadas! Tegul šiemet Kalėdos būna savos 
+ – kupinos artumo\, gerumo\, šviesos ir susitikimų\, kurių taip laukia
+ me.…\n\nDaugiau: https://kedainiai.lt/renginiai/244/egles-iziebimo-svent
+ e/event-8634
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Eglės įžiebimo šventė
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

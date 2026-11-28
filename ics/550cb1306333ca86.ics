@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Renginiai Kedainiu Rajone//LT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:550cb1306333ca86@renginiaikedainiuose.lt
+DTSTAMP:20261128T161055Z
+DTSTART:20261219T090000Z
+DTEND:20261219T100000Z
+SUMMARY:TAI BENT KONCERTAS - spektaklis visai šeimai
+LOCATION:Kėdainių kultūros centras\, - J. Basanavičiaus g. 24\, Kėdain
+ iai
+URL:https://kedainiai.lt/renginiai/244/tai-bent-koncertas-spektaklis-visai-
+ seimai/event-9321
+DESCRIPTION:Renginio adresas - J. Basanavičiaus g. 24\, Kėdainiai Rengini
+ o organizatorius - Teatras Kaukių akademija VšĮ *Bilietai ir daugiau in
+ formacijos\n\nDaugiau: https://kedainiai.lt/renginiai/244/tai-bent-koncert
+ as-spektaklis-visai-seimai/event-9321
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:TAI BENT KONCERTAS - spektaklis visai šeimai
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

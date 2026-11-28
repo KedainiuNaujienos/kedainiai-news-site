@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Renginiai Kedainiu Rajone//LT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:f370a6a2b1adfa1f@renginiaikedainiuose.lt
+DTSTAMP:20261128T161055Z
+DTSTART:20261217T153000Z
+DTEND:20261217T170000Z
+SUMMARY:Juozo Kuraičio koncertas ROMANTIC SAX
+LOCATION:Daugiakultūris centras\, Paeismilgio g. 12b\, Kėdainiai
+URL:https://kedainiumuziejus.lt/renginiai/juozo-kuraicio-koncertas-romantic
+ -sax/
+DESCRIPTION:Description Gruodžio 17 d. 17.30 val. Daugiakultūriame centre
+  Juozo Kuraičio koncertas ROMANTIC SAX. Bilietai internetu: www.kakava.lt
+  „ROMANTIC SAX“ sugrįžta su programa\,… More\n\nDaugiau: https://k
+ edainiumuziejus.lt/renginiai/juozo-kuraicio-koncertas-romantic-sax/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Juozo Kuraičio koncertas ROMANTIC SAX
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

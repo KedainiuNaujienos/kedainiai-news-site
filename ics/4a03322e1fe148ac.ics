@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Renginiai Kedainiu Rajone//LT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:4a03322e1fe148ac@renginiaikedainiuose.lt
+DTSTAMP:20261128T161055Z
+DTSTART:20261201T160000Z
+DTEND:20261201T180000Z
+SUMMARY:SENJORAI. A. Nicolaj (rež. R.Kazlas)
+LOCATION:Kėdainių kultūros centras
+URL:https://allevents.lt/teatras/kedainiai/kedainiu-kulturos-centras/135857
+ -teatras-senjorai-a-nicolaj-rez-r-kazlas-kedainiai-kedainiai-2026-bilietai
+DESCRIPTION:Daugiau: https://allevents.lt/teatras/kedainiai/kedainiu-kultur
+ os-centras/135857-teatras-senjorai-a-nicolaj-rez-r-kazlas-kedainiai-kedain
+ iai-2026-bilietai
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:SENJORAI. A. Nicolaj (rež. R.Kazlas)
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

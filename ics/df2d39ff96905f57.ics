@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Renginiai Kedainiu Rajone//LT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:df2d39ff96905f57@renginiaikedainiuose.lt
+DTSTAMP:20261128T161055Z
+DTSTART:20261218T170000Z
+DTEND:20261218T190000Z
+SUMMARY:Nostra.lt RKL rungtynės Kėdainių „Kėdainių sporto centras“
+  – Ukmergės „SC-Jusema“
+LOCATION:Kėdainių sporto centras\, – Parko g. 4\, Vilainių sen.\, Kėd
+ ainių r.
+URL:https://kedainiai.lt/renginiai/244/nostra.lt-rkl-rungtynes-kedainiu-ked
+ ainiu-sporto-centras-ukmerges-sc-jusema/event-9658
+DESCRIPTION:Renginio adresas – Parko g. 4\, Vilainių sen.\, Kėdainių r
+ . Renginio organizatorius – Kėdainių sporto centras Kviečiame sirgali
+ us atvykti į rungtynes ir palaikyti Kėdainių komandą. *Įėjimas nemok
+ amas.\n\nDaugiau: https://kedainiai.lt/renginiai/244/nostra.lt-rkl-rungtyn
+ es-kedainiu-kedainiu-sporto-centras-ukmerges-sc-jusema/event-9658
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Nostra.lt RKL rungtynės Kėdainių „Kėdainių sporto centra
+ s“ – Ukmergės „SC-Jusema“
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

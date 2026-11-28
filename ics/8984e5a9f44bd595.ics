@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Renginiai Kedainiu Rajone//LT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:8984e5a9f44bd595@renginiaikedainiuose.lt
+DTSTAMP:20261128T161055Z
+DTSTART:20261228T153000Z
+DTEND:20261228T163000Z
+SUMMARY:Šventė visai šeimai „Kalėdų stebuklai tęsiasi!“
+LOCATION:Kėdainių kultūros centro Vilainių skyrius\, - Parko g. 6\, Vil
+ ainiai\, Vilainių sen.\, Kėdainių r.
+URL:https://kedainiai.lt/renginiai/244/svente-visai-seimai-kaledu-stebuklai
+ -tesiasi/event-9785
+DESCRIPTION:Renginio adresas - Parko g. 6\, Vilainiai\, Vilainių sen.\, K
+ ėdainių r. Renginio organizatorius - Kėdainių kultūros centro Vilaini
+ ų skyrius *Nemokamas renginys\n\nDaugiau: https://kedainiai.lt/renginiai/
+ 244/svente-visai-seimai-kaledu-stebuklai-tesiasi/event-9785
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Šventė visai šeimai „Kalėdų stebuklai tęsiasi!“
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Renginiai Kedainiu Rajone//LT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:b65f3e6d385ef7d9@renginiaikedainiuose.lt
+DTSTAMP:20261128T161055Z
+DTSTART:20261206T160000Z
+DTEND:20261206T170000Z
+SUMMARY:Muzikinis šou Stano prieš Zvonkų – kompozitorių ringas
+LOCATION:Pagirių skyrius\, Liepų g. 21\, Pagiriai\, Šėtos sen. Kėdaini
+ ų r.\, 58486
+URL:https://www.setoskultura.lt/renginiai/stano-pries-zvonku-kompozitoriu-r
+ ingas/
+DESCRIPTION:Pirmasis interaktyvus muzikinis šou! – Stano prieš Zvonkų!
+  Muzikinėje dvikovoje susikaus du žinomi kompozitoriai su savo kūrybos 
+ dainomis. Teisėjas – publika\, kuri ir išrenka nugalėtoją! Tai tarsi
+  muzikos apdovanojimai\, tik su humoro prieskoniu! Ar esi pasiruošęs nuo
+ taikingam vakarui?!\n\nDaugiau: https://www.setoskultura.lt/renginiai/stan
+ o-pries-zvonku-kompozitoriu-ringas/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Muzikinis šou Stano prieš Zvonkų – kompozitorių ringas
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

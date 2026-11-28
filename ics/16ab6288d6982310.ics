@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Renginiai Kedainiu Rajone//LT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:16ab6288d6982310@renginiaikedainiuose.lt
+DTSTAMP:20261128T161055Z
+DTSTART:20261217T130000Z
+DTEND:20261217T150000Z
+SUMMARY:Kūrybinė edukacija šeimoms „Šventinių meduolių dekoravimas
+ “
+LOCATION:Pajieslio daugiafunkcis centras\, - Ateities g. 2\, Pajieslys\, K
+ ėdainių r.
+URL:https://kedainiai.lt/renginiai/244/kurybine-edukacija-seimoms-sventiniu
+ -meduoliu-dekoravimas/event-9730
+DESCRIPTION:Renginio adresas - Ateities g. 2\, Pajieslys\, Kėdainių r. Re
+ nginio organizatoriai - Krakių kultūros centras\, Pajieslio bendruomenė
+ s centras\, Kėdainių r. sav. Mikalojaus Daukšos viešosios bibliotekos 
+ Pajieslio struktūrinis padalinys *Renginys nemokamas\n\nDaugiau: https://
+ kedainiai.lt/renginiai/244/kurybine-edukacija-seimoms-sventiniu-meduoliu-d
+ ekoravimas/event-9730
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Kūrybinė edukacija šeimoms „Šventinių meduolių dekoravi
+ mas“
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

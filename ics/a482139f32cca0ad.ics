@@ -1,0 +1,34 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Renginiai Kedainiu Rajone//LT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:a482139f32cca0ad@renginiaikedainiuose.lt
+DTSTAMP:20261128T161055Z
+DTSTART:20261201T100000Z
+DTEND:20261201T150000Z
+SUMMARY:Kėdainių fotomenininkų paroda „Kėdainių miestas ir žmonės
+ “
+LOCATION:Daugiakultūris centras\, - Paeismilgio g. 12B\, Kėdainiai
+URL:https://kedainiai.lt/renginiai/244/kedainiu-fotomenininku-paroda-kedain
+ iu-miestas-ir-zmones/event-9736
+DESCRIPTION:Renginio adresas - Paeismilgio g. 12B\, Kėdainiai Renginio org
+ anizatorius - Daugiakultūris centras *Parodos lankymas snemokamas Paroda 
+ veiks iki 2027 m. sausio 6 d. Autoriai: Aistė Kanapeckaitė – Čerenkov
+ ienė\, Regina Jasinskienė (1955-2026) ir Algimantas Lūža. Autoriai pas
+ ižymi skirtingu žvilgsniu ir patirtimi: Fotomenininkė Aistė Kanapeckai
+ tė – Čerenkovienė – ilgametė Kėdainių fotografė\, fiksuojanti i
+ r archyvuojanti nuolat kintantį miesto urbanistinį peizažą\, žmones i
+ r įvykius. Aistė yra sukūrusi nuotraukų komplektą Kėdainių turizmo 
+ centrui\, skirtą internetiniam puslapiui Kedainiai\, todėl jos…\n\nDau
+ giau: https://kedainiai.lt/renginiai/244/kedainiu-fotomenininku-paroda-ked
+ ainiu-miestas-ir-zmones/event-9736
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Kėdainių fotomenininkų paroda „Kėdainių miestas ir žmon
+ ės“
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

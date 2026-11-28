@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Renginiai Kedainiu Rajone//LT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:3d16033a613b5527@renginiaikedainiuose.lt
+DTSTAMP:20261128T161055Z
+DTSTART:20261202T170000Z
+DTEND:20261202T190000Z
+SUMMARY:Lietuvos moterų krepšinio lygos rungtynės Kėdainių „Kėdaini
+ ų sporto centras“ – Klaipėdos „VKKM – Neptūnas“
+LOCATION:Kėdainių sporto centras\, – Parko g. 4\, Vilainių sen.\, Kėd
+ ainių r.
+URL:https://kedainiai.lt/renginiai/244/lietuvos-moteru-krepsinio-lygos-rung
+ tynes-kedainiu-kedainiu-sporto-centras-klaipedos-vkkm-neptunas/event-9647
+DESCRIPTION:Renginio adresas – Parko g. 4\, Vilainių sen.\, Kėdainių r
+ . Renginio organizatorius – Kėdainių sporto centras *Renginys – nemo
+ kamas! Komanda kviečia sirgalius atvykti ir palaikyti mūsų miesto moter
+ is\, kurios garbingai gina Kėdainių vardą!\n\nDaugiau: https://kedainia
+ i.lt/renginiai/244/lietuvos-moteru-krepsinio-lygos-rungtynes-kedainiu-keda
+ iniu-sporto-centras-klaipedos-vkkm-neptunas/event-9647
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Lietuvos moterų krepšinio lygos rungtynės Kėdainių „Kėd
+ ainių sporto centras“ – Klaipėdos „VKKM – Neptūnas“
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

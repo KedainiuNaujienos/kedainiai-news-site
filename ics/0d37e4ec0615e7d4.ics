@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Renginiai Kedainiu Rajone//LT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:0d37e4ec0615e7d4@renginiaikedainiuose.lt
+DTSTAMP:20261128T161055Z
+DTSTART:20261213T143000Z
+DTEND:20261213T150000Z
+SUMMARY:Tiskūnų kaimo Kalėdų eglės įžiebimo šventė
+LOCATION:Prie Kėdainių kultūros centro Tiskūnų skyriaus\, - Tiskūnų 
+ g. 7\, Tiskūnai\, Kėdainių r.
+URL:https://kedainiai.lt/renginiai/244/tiskunu-kaimo-kaledu-egles-iziebimo-
+ svente/event-9777
+DESCRIPTION:Renginio adresas - Tiskūnų g. 7\, Tiskūnai\, Kėdainių r. R
+ enginio organizatorius - Kėdainių kultūros centro Tiskūnų skyrius *Ne
+ mokamas renginys\n\nDaugiau: https://kedainiai.lt/renginiai/244/tiskunu-ka
+ imo-kaledu-egles-iziebimo-svente/event-9777
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tiskūnų kaimo Kalėdų eglės įžiebimo šventė
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Renginiai Kedainiu Rajone//LT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:8233ebe705827375@renginiaikedainiuose.lt
+DTSTAMP:20261128T161055Z
+DTSTART:20261204T160000Z
+DTEND:20261204T180000Z
+SUMMARY:Senų eglutės žaisliukų paslaptys
+LOCATION:Viešbutis-restoranas „Senoji Smilga“\, Senoji g. 16\, Kėdain
+ iai
+URL:https://www.kaveikti.lt/renginys/senu-eglutes-zaisliuku-paslaptys
+DESCRIPTION:Daugiau: https://www.kaveikti.lt/renginys/senu-eglutes-zaisliuk
+ u-paslaptys
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Senų eglutės žaisliukų paslaptys
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

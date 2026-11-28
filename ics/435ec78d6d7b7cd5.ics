@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Renginiai Kedainiu Rajone//LT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:435ec78d6d7b7cd5@renginiaikedainiuose.lt
+DTSTAMP:20261128T161055Z
+DTSTART:20261201T070000Z
+DTEND:20261201T150000Z
+SUMMARY:Šiaudinių sodų paroda „Šiaudų sodas sodelis 3“
+LOCATION:1863 metų sukilimo muziejus Paberžėje\, - Paberžė\, Gudžiūn
+ ų seniūnija\, Kėdainių rajonas
+URL:https://kedainiai.lt/renginiai/244/siaudiniu-sodu-paroda-siaudu-sodas-s
+ odelis-3/event-9738
+DESCRIPTION:Renginio adresas - Paberžė\, Gudžiūnų seniūnija\, Kėdain
+ ių rajonas Renginio organizatorius - 1863 metų sukilimo muziejus Paberž
+ ėje *Lankymas nemokamas Paroda veiks iki gruodžio 31 d. Daugiau informac
+ ijos\n\nDaugiau: https://kedainiai.lt/renginiai/244/siaudiniu-sodu-paroda-
+ siaudu-sodas-sodelis-3/event-9738
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Šiaudinių sodų paroda „Šiaudų sodas sodelis 3“
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

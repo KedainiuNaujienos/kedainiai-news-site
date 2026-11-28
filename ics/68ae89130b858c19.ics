@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Renginiai Kedainiu Rajone//LT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:68ae89130b858c19@renginiaikedainiuose.lt
+DTSTAMP:20261128T161055Z
+DTSTART:20261219T150000Z
+DTEND:20261219T180000Z
+SUMMARY:Padėkos vakaras „Gerumu sušildyk širdį...”
+LOCATION:Gudžiūnų bendruomenės namai\, - Tujų g. 54 \, Gudžiūnai\, K
+ ėdainių r.
+URL:https://kedainiai.lt/renginiai/244/padekos-vakaras-gerumu-susildyk-sird
+ i.../event-9702
+DESCRIPTION:Renginio adresas - Tujų g. 54 \, Gudžiūnai\, Kėdainių r. R
+ enginio organizatorius - Akademijos kultūros centro Gudžiūnų skyrius *
+ Nemokamas renginys Padėkos vakaras bendruomenei\, renginių rėmėjams\n\
+ nDaugiau: https://kedainiai.lt/renginiai/244/padekos-vakaras-gerumu-susild
+ yk-sirdi.../event-9702
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Padėkos vakaras „Gerumu sušildyk širdį...”
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

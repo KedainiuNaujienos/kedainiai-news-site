@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Renginiai Kedainiu Rajone//LT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:d1410c6966d3301c@renginiaikedainiuose.lt
+DTSTAMP:20261128T161055Z
+DTSTART:20261211T130000Z
+DTEND:20261211T150000Z
+SUMMARY:Kūrybinis užsiėmimas „Kalėdiniai karpiniai“
+LOCATION:Krakių kultūros centro Meironiškių skyrius\, - Saulėtekio 7\,
+  Meironiškiai\, Kėdainių r.
+URL:https://kedainiai.lt/renginiai/244/kurybinis-uzsiemimas-kalediniai-karp
+ iniai/event-9726
+DESCRIPTION:Renginio adresas - Saulėtekio 7\, Meironiškiai\, Kėdainių r
+ . Renginio organizatoriai - Krakių kultūros centro Meironiškių skyrius
+  ir Kėdainių rajono savivaldybės M. Daukšos viešosios bibliotekos Mei
+ roniškių struktūrinis padalinys *Nemokamas renginys\n\nDaugiau: https:/
+ /kedainiai.lt/renginiai/244/kurybinis-uzsiemimas-kalediniai-karpiniai/even
+ t-9726
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Kūrybinis užsiėmimas „Kalėdiniai karpiniai“
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

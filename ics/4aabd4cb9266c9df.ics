@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Renginiai Kedainiu Rajone//LT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:4aabd4cb9266c9df@renginiaikedainiuose.lt
+DTSTAMP:20261128T161055Z
+DTSTART:20261219T080000Z
+DTEND:20261219T140000Z
+SUMMARY:KALĖDINĖ MUGĖ „Stilius ir skonis“
+LOCATION:Kėdainių arena
+URL:https://kedainiuarena.lt/renginiai/kaledine-muge-stilius-ir-skonis/?occ
+ urrence=2026-12-19
+DESCRIPTION:Ši mugė Kėdainių arenoje – didysis kalėdinių dovanų ap
+ sipirkimas. Kai Kalėdos jau visai čia pat\, metas ieškoti ypatingų dov
+ anų\, šventinių akcentų ir staigmenų artimiesiems. Gruodžio 19 d.\, 
+ šeštadienį\, Kėdainių arenoje vyks kalėdinė „Stilius ir Skonis“
+  mugė: didysis šventinis apsipirkimas\, kuriame vienoje vietoje susitiks
+  kūrėjai\, gamintojai\, dizaineriai ir prekybininkai iš visos Lietuvos.
+  Nuo 10 iki 16\n\nDaugiau: https://kedainiuarena.lt/renginiai/kaledine-mug
+ e-stilius-ir-skonis/?occurrence=2026-12-19
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:KALĖDINĖ MUGĖ „Stilius ir skonis“
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

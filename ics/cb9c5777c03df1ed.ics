@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Renginiai Kedainiu Rajone//LT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:cb9c5777c03df1ed@renginiaikedainiuose.lt
+DTSTAMP:20261128T161055Z
+DTSTART:20261128T130000Z
+DTEND:20261128T140000Z
+SUMMARY:Kūrybinės dirbtuvės „Advento vainiko pynimas“
+LOCATION:Nociūnų skyrius\, - Pėdžių 19\, Nociūnų k.\, Pelėdnagių s
+ en.\, Kėdainių r.
+URL:https://www.kedainiukulturoscentras.lt/renginiai/kurybines-dirbtuves-ad
+ vento-vainiko-pynimas/
+DESCRIPTION:Renginys nemokamas.\n\nDaugiau: https://www.kedainiukulturoscen
+ tras.lt/renginiai/kurybines-dirbtuves-advento-vainiko-pynimas/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Kūrybinės dirbtuvės „Advento vainiko pynimas“
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Renginiai Kedainiu Rajone//LT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6786b3084d9f1ef3@renginiaikedainiuose.lt
+DTSTAMP:20261128T161055Z
+DTSTART:20261206T140000Z
+DTEND:20261206T170000Z
+SUMMARY:Kalėdų Senelio rezidencija
+LOCATION:Kėdainių M. Daukšos viešosios bibliotekos Vaikų ir jaunimo sk
+ yrius\, - Didžiosios Rinkos aikštė 4\, Kėdainiai
+URL:https://kedainiai.lt/renginiai/244/kaledu-senelio-rezidencija/event-966
+ 7
+DESCRIPTION:Renginio adresas - Didžiosios Rinkos aikštė 4\, Kėdainiai R
+ enginio organizatorius - Kėdainių kultūros centras *Nemokamas renginys\
+ n\nDaugiau: https://kedainiai.lt/renginiai/244/kaledu-senelio-rezidencija/
+ event-9667
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Kalėdų Senelio rezidencija
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

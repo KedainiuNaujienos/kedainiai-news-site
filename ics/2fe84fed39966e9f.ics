@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Renginiai Kedainiu Rajone//LT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2fe84fed39966e9f@renginiaikedainiuose.lt
+DTSTAMP:20261128T161055Z
+DTSTART:20261201T160000Z
+DTEND:20261201T180000Z
+SUMMARY:Kino filmas vaikams „Bjurkis"
+LOCATION:Akademijos kultūros centras\, - Stoties g. 9\, Akademija\, Kėdai
+ nių r.
+URL:https://kedainiai.lt/renginiai/244/kino-filmas-vaikams-bjurkis/event-96
+ 90
+DESCRIPTION:Renginio adresas - Stoties g. 9\, Akademija\, Kėdainių r. Ren
+ ginio organizatorius - UAB „Kadras 24“ Kino filmas vaikams. *Bilieto k
+ aina - 6 Eur. *Bilietus galima įsigyti kultūros centre\, prieš kino fil
+ mo seansą.\n\nDaugiau: https://kedainiai.lt/renginiai/244/kino-filmas-vai
+ kams-bjurkis/event-9690
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Kino filmas vaikams „Bjurkis"
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

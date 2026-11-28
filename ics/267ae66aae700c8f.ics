@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Renginiai Kedainiu Rajone//LT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:267ae66aae700c8f@renginiaikedainiuose.lt
+DTSTAMP:20261128T161055Z
+DTSTART:20261205T144500Z
+DTEND:20261205T160000Z
+SUMMARY:Eglutės įžiebimo šventė Pagiriuose
+LOCATION:Pagirių skyrius\, Liepų g. 21\, Pagiriai\, Šėtos sen. Kėdaini
+ ų r.\, 58486
+URL:https://www.setoskultura.lt/renginiai/eglutes-iziebimo-svente-pagiriuos
+ e/
+DESCRIPTION:Vakaro metu įžiebsime Pagirių miestelio Kalėdų eglutę\, o
+  po įžiebimo leisimės į nuotykį su Kalėdų seneliu ir eglute (Gerut
+ ė ir Nevaliukas). Kalėdinė programa skirta ir vaikams ir dideliems vaik
+ ams. Neliūdės nė vienas! Mažųjų laukia Kalėdų senelio dovanėlės.
+ \n\nDaugiau: https://www.setoskultura.lt/renginiai/eglutes-iziebimo-svente
+ -pagiriuose/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Eglutės įžiebimo šventė Pagiriuose
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

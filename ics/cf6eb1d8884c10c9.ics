@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Renginiai Kedainiu Rajone//LT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:cf6eb1d8884c10c9@renginiaikedainiuose.lt
+DTSTAMP:20261128T161055Z
+DTSTART:20261213T130000Z
+DTEND:20261213T140000Z
+SUMMARY:Advento vakaras „Ant devinto rago ugnelė žėrėjo“. Grupės 
+ „Vilko pupos“ koncertas / Truskava
+LOCATION:Truskavos kultūros centras\, - Derliaus g. 5-1\, Pavermenio k.\, 
+ Kėdainių r.
+URL:https://kedainiai.lt/renginiai/244/advento-vakaras-ant-devinto-rago-ugn
+ ele-zerejo.-grupes-vilko-pupos-koncertas-truskava/event-9676
+DESCRIPTION:Renginio adresas - Derliaus g. 5-1\, Pavermenio k.\, Kėdainių
+  r. Renginio organizatorius - Truskavos kultūros centras *Renginys nemoka
+ mas\n\nDaugiau: https://kedainiai.lt/renginiai/244/advento-vakaras-ant-dev
+ into-rago-ugnele-zerejo.-grupes-vilko-pupos-koncertas-truskava/event-9676
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Advento vakaras „Ant devinto rago ugnelė žėrėjo“. Grup
+ ės „Vilko pupos“ koncertas / Truskava
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

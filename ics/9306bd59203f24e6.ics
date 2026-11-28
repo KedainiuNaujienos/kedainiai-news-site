@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Renginiai Kedainiu Rajone//LT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:9306bd59203f24e6@renginiaikedainiuose.lt
+DTSTAMP:20261128T161055Z
+DTSTART:20261214T150000Z
+DTEND:20261214T151900Z
+SUMMARY:Šiaudų žaisliukų eglutei kūryba \,\,Rugiai kaip aukso vėrinia
+ i”
+LOCATION:Pagirių skyrius\, Liepų g. 21\, Pagiriai\, Šėtos sen. Kėdaini
+ ų r.\, 58486
+URL:https://www.setoskultura.lt/renginiai/siaudu-zaisliuku-eglutei-kuryba-r
+ ugiai-kaip-aukso-veriniai/
+DESCRIPTION:Edukaciją ves senųjų lietuvių liaudies amatų puoselėtoja 
+ tautodailininke Milda Tamulevičienė. Vakaro metu susipažinsime su kūry
+ ba iš šiaudų\, prisiminsime kaip užauginama duona sukursime šiaudini
+ ų žaisliukų eglutei puošti.\n\nDaugiau: https://www.setoskultura.lt/re
+ nginiai/siaudu-zaisliuku-eglutei-kuryba-rugiai-kaip-aukso-veriniai/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Šiaudų žaisliukų eglutei kūryba \,\,Rugiai kaip aukso vėr
+ iniai”
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

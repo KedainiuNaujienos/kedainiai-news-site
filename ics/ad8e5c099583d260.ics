@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Renginiai Kedainiu Rajone//LT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:ad8e5c099583d260@renginiaikedainiuose.lt
+DTSTAMP:20261128T161055Z
+DTSTART:20261203T160000Z
+DTEND:20261203T170000Z
+SUMMARY:Romualdo Augūno fotografijų parodos pristatymas
+LOCATION:Truskavos kultūros centras\, - Derliaus g. 5-1\, Pavermenio k.\, 
+ Kėdainių r.
+URL:https://kedainiai.lt/renginiai/244/romualdo-auguno-fotografiju-parodos-
+ pristatymas/event-9672
+DESCRIPTION:Renginio adresas - Derliaus g. 5-1\, Pavermenio k.\, Kėdainių
+  r. Renginio organizatorius - Truskavos kultūros centras *Renginys nemoka
+ mas\n\nDaugiau: https://kedainiai.lt/renginiai/244/romualdo-auguno-fotogra
+ fiju-parodos-pristatymas/event-9672
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Romualdo Augūno fotografijų parodos pristatymas
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

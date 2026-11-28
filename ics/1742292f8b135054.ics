@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Renginiai Kedainiu Rajone//LT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:1742292f8b135054@renginiaikedainiuose.lt
+DTSTAMP:20261128T161055Z
+DTSTART:20261204T170000Z
+DTEND:20261204T190000Z
+SUMMARY:Nostra.lt RKL rungtynės Kėdainių „Kėdainių sporto centras“
+  – Kauno „Baltic Sharks“
+LOCATION:Kėdainių sporto centras\, – Parko g. 4\, Vilainių sen.\, Kėd
+ ainių r.
+URL:https://kedainiai.lt/renginiai/244/nostra.lt-rkl-rungtynes-kedainiu-ked
+ ainiu-sporto-centras-kauno-baltic-sharks/event-9650
+DESCRIPTION:Renginio adresas – Parko g. 4\, Vilainių sen.\, Kėdainių r
+ . Renginio organizatorius – Kėdainių sporto centras Kviečiame sirgali
+ us atvykti į rungtynes ir palaikyti Kėdainių komandą. *Įėjimas nemok
+ amas\n\nDaugiau: https://kedainiai.lt/renginiai/244/nostra.lt-rkl-rungtyne
+ s-kedainiu-kedainiu-sporto-centras-kauno-baltic-sharks/event-9650
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Nostra.lt RKL rungtynės Kėdainių „Kėdainių sporto centra
+ s“ – Kauno „Baltic Sharks“
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

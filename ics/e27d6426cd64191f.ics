@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Renginiai Kedainiu Rajone//LT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:e27d6426cd64191f@renginiaikedainiuose.lt
+DTSTAMP:20261128T161055Z
+DTSTART:20261206T160000Z
+DTEND:20261206T170000Z
+SUMMARY:Lančiūnavos Kalėdų eglės įžiebimo šventė
+LOCATION:Prie Lančiūnavos bendruomenės centro\, - Aukštuvių g. 4\, Lan
+ čiūnavos k.\, Kėdainių r.
+URL:https://kedainiai.lt/renginiai/244/lanciunavos-kaledu-egles-iziebimo-sv
+ ente/event-9782
+DESCRIPTION:Renginio adresas - Aukštuvių g. 4\, Lančiūnavos k.\, Kėdai
+ nių r. Renginio organizatorius - Kėdainių kultūros centro Vilainių sk
+ yrius *Nemokamas renginys\n\nDaugiau: https://kedainiai.lt/renginiai/244/l
+ anciunavos-kaledu-egles-iziebimo-svente/event-9782
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Lančiūnavos Kalėdų eglės įžiebimo šventė
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

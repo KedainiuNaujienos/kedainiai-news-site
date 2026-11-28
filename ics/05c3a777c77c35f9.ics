@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Renginiai Kedainiu Rajone//LT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:05c3a777c77c35f9@renginiaikedainiuose.lt
+DTSTAMP:20261128T161055Z
+DTSTART:20261208T160000Z
+DTEND:20261208T180000Z
+SUMMARY:Kūrybinis-edukacinis užsiėmimas. Kalėdinių dekoracijų gamyba
+LOCATION:Josvainių kultūros centras\, - Karių a. 3\, Josvainiai\, Kėdai
+ nių r.
+URL:https://kedainiai.lt/renginiai/244/kurybinis-edukacinis-uzsiemimas.-kal
+ ediniu-dekoraciju-gamyba/event-9706
+DESCRIPTION:Renginio adresas - Karių a. 3\, Josvainiai\, Kėdainių r. Ren
+ ginio organizatorius - Josvainių kultūros centras *Renginys nemokamas U
+ žsiėmimų metu dalyviai\, pasitelkdami kūrybinius gebėjimus ir meninė
+ s raiškos priemones\, gamins kalėdines dekoracijas\, skirtas Josvainių 
+ kultūros centro langų puošybai ir šventinės aplinkos kūrimui. Regist
+ racija telefonu +37061865404\n\nDaugiau: https://kedainiai.lt/renginiai/24
+ 4/kurybinis-edukacinis-uzsiemimas.-kalediniu-dekoraciju-gamyba/event-9706
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Kūrybinis-edukacinis užsiėmimas. Kalėdinių dekoracijų gam
+ yba
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

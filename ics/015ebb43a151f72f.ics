@@ -1,0 +1,34 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Renginiai Kedainiu Rajone//LT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:015ebb43a151f72f@renginiaikedainiuose.lt
+DTSTAMP:20261128T161055Z
+DTSTART:20261220T110000Z
+DTEND:20261220T120000Z
+SUMMARY:Josvainių kultūros centro moterų vokalinio ansamblio Pilkos styg
+ os koncertas „ŠVENTŲ KALĖDŲ BELAUKIANT“
+LOCATION:Kėdainių Šv. Juozapo bažnyčia\, - Radvilų g. 10\, Kėdainiai
+URL:https://kedainiai.lt/renginiai/244/josvainiu-kulturos-centro-moteru-vok
+ alinio-ansamblio-pilkos-stygos-koncertas-sventu-kaledu-belaukiant/event-97
+ 13
+DESCRIPTION:Renginio adresas - Radvilų g. 10\, Kėdainiai Renginio organiz
+ atorius - Josvainių kultūros centras *Renginys nemokamas Adventinio laik
+ otarpio muzikinis renginys\, skirtas puoselėti kalėdines tradicijas\, sk
+ atinti bendruomeniškumą ir kurti prasmingą šventinio laukimo atmosfer
+ ą. Sakralioje bažnyčios erdvėje skambės vokaliniai kūriniai\, kvieč
+ iantys susikaupimui\, dvasinei ramybei ir apmąstymams. Koncertu siekiama 
+ stiprinti bendruomenės kultūrinius ryšius ir puoselėti muzikavimo trad
+ icijas.\n\nDaugiau: https://kedainiai.lt/renginiai/244/josvainiu-kulturos-
+ centro-moteru-vokalinio-ansamblio-pilkos-stygos-koncertas-sventu-kaledu-be
+ laukiant/event-9713
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Josvainių kultūros centro moterų vokalinio ansamblio Pilkos 
+ stygos koncertas „ŠVENTŲ KALĖDŲ BELAUKIANT“
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

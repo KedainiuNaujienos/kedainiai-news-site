@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Renginiai Kedainiu Rajone//LT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:08dc346df854f0c7@renginiaikedainiuose.lt
+DTSTAMP:20261128T161055Z
+DTSTART:20261218T170000Z
+DTEND:20261218T190000Z
+SUMMARY:Kalėdiniai šokiai "Senojoje Smilgoje"
+LOCATION:Viešbutis-restoranas „Senoji Smilga“\, Senoji g. 16\, Kėdain
+ iai
+URL:https://www.kaveikti.lt/renginys/kalediniai-sokiai-senojoje-smilgoje
+DESCRIPTION:Daugiau: https://www.kaveikti.lt/renginys/kalediniai-sokiai-sen
+ ojoje-smilgoje
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Kalėdiniai šokiai "Senojoje Smilgoje"
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

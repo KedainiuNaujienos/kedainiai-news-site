@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Renginiai Kedainiu Rajone//LT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:346294893a0460f4@renginiaikedainiuose.lt
+DTSTAMP:20261128T161055Z
+DTSTART:20261219T150000Z
+DTEND:20261219T163000Z
+SUMMARY:Tragiromantinė muzikinė komedija „Neužsivilkę paltų“
+LOCATION:Kėdainių kultūros centras\, - J. Basanavičiaus g. 24\, Kėdain
+ iai
+URL:https://kedainiai.lt/renginiai/244/tragiromantine-muzikine-komedija-neu
+ zsivilke-paltu/event-9754
+DESCRIPTION:Renginio adresas - J. Basanavičiaus g. 24\, Kėdainiai Rengini
+ o organizatorius - VšĮ Teatras Kaukių akademija *Bilietai ir daugiau in
+ formacijos\n\nDaugiau: https://kedainiai.lt/renginiai/244/tragiromantine-m
+ uzikine-komedija-neuzsivilke-paltu/event-9754
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tragiromantinė muzikinė komedija „Neužsivilkę paltų“
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

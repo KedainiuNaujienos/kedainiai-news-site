@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Renginiai Kedainiu Rajone//LT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:d055059db57bec84@renginiaikedainiuose.lt
+DTSTAMP:20261128T161055Z
+DTSTART:20261211T150000Z
+DTEND:20261211T160000Z
+SUMMARY:Tarptautinės šiuolaikinio meno trienalės „Dialogai“ II dalie
+ s atidarymas
+LOCATION:Janinos Monkutės - Marks muziejus-galerija\, - J. Basanavičiaus 
+ g. 45\, Kėdainiai
+URL:https://kedainiai.lt/renginiai/244/tarptautines-siuolaikinio-meno-trien
+ ales-dialogai-ii-dalies-atidarymas/event-9734
+DESCRIPTION:Renginio adresas - J. Basanavičiaus g. 45\, Kėdainiai Rengini
+ o organizatorius - Janinos Monkutės - Marks muziejus-galerija *Renginys n
+ emokamas Trienalė skirta Janinai Monkutei – Marks ir Kėdainiams Daugia
+ u inforamcijos\n\nDaugiau: https://kedainiai.lt/renginiai/244/tarptautines
+ -siuolaikinio-meno-trienales-dialogai-ii-dalies-atidarymas/event-9734
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tarptautinės šiuolaikinio meno trienalės „Dialogai“ II d
+ alies atidarymas
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

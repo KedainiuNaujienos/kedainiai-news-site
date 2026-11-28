@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Renginiai Kedainiu Rajone//LT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6a0f67f569dfc67a@renginiaikedainiuose.lt
+DTSTAMP:20261128T161055Z
+DTSTART:20261215T160000Z
+DTEND:20261215T170000Z
+SUMMARY:Vilainių seniūnijos Padėkos vakaras „Dėkingumas\, skambantis 
+ širdyje“
+LOCATION:Kėdainių kultūros centro Vilainių skyrius\, - Parko g. 6\, Vil
+ ainiai\, Vilainių sen.\, Kėdainių r.
+URL:https://kedainiai.lt/renginiai/244/vilainiu-seniunijos-padekos-vakaras-
+ dekingumas-skambantis-sirdyje/event-9784
+DESCRIPTION:Renginio adresas - Parko g. 6\, Vilainiai\, Vilainių sen.\, K
+ ėdainių r. Renginio organizatorius - Kėdainių kultūros centro Vilaini
+ ų skyrius *Nemokamas renginys\n\nDaugiau: https://kedainiai.lt/renginiai/
+ 244/vilainiu-seniunijos-padekos-vakaras-dekingumas-skambantis-sirdyje/even
+ t-9784
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Vilainių seniūnijos Padėkos vakaras „Dėkingumas\, skamban
+ tis širdyje“
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

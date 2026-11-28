@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Renginiai Kedainiu Rajone//LT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:29365fb340594f6f@renginiaikedainiuose.lt
+DTSTAMP:20261128T161055Z
+DTSTART:20261220T150000Z
+DTEND:20261220T160000Z
+SUMMARY:Šventinis grupės „Grupė 2 - Karolis ir Donatas“ koncertas 
+ „Kai metai baigiasi...“
+LOCATION:Šėtos kultūros centras\, Kėdainių g. 6\, Šėta\, 58131
+URL:https://www.setoskultura.lt/renginiai/tradicinis-kaledinis-koncertas-ka
+ i-metai-baigiasi/
+DESCRIPTION:Kviečiame į traciją tapusį kalėdinį koncertą „Kai meta
+ i baigiasi“. Kas koncertuos šiais metais informuosi jau netrukus. Steb
+ ėkite mūsų puslapį. Koncertą Šėtos seniūnijos gyventojams dovanoja
+  – Šėtos seniūnija ir Šėtos kultūros centras. Laukiame atvykstanč
+ iu.\n\nDaugiau: https://www.setoskultura.lt/renginiai/tradicinis-kaledinis
+ -koncertas-kai-metai-baigiasi/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Šventinis grupės „Grupė 2 - Karolis ir Donatas“ koncerta
+ s „Kai metai baigiasi...“
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Renginiai Kedainiu Rajone//LT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:f34a14070ae09164@renginiaikedainiuose.lt
+DTSTAMP:20261128T161055Z
+DTSTART:20261220T150000Z
+DTEND:20261220T164000Z
+SUMMARY:Spektaklis. Komedija „Klinika“
+LOCATION:Kėdainių kultūros centras\, - J. Basanavičiaus g. 24\, Kėdain
+ iai
+URL:https://kedainiai.lt/renginiai/244/spektaklis.-komedija-klinika/event-9
+ 755
+DESCRIPTION:Renginio adresas - J. Basanavičiaus g. 24\, Kėdainiai Rengini
+ o organizatorius - UAB Comedy Productions Bilietai ir daugiau informacijos
+ \n\nDaugiau: https://kedainiai.lt/renginiai/244/spektaklis.-komedija-klini
+ ka/event-9755
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Spektaklis. Komedija „Klinika“
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

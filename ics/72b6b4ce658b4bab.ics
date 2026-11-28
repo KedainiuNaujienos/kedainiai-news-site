@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Renginiai Kedainiu Rajone//LT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:72b6b4ce658b4bab@renginiaikedainiuose.lt
+DTSTAMP:20261128T161055Z
+DTSTART:20261203T090000Z
+DTEND:20261203T140000Z
+SUMMARY:Tarptautinės asmenų su negalia dienos minėjimas
+LOCATION:Kėdainių kultūros centro Vilainių skyrius\, - Parko g. 6\, Vil
+ ainiai\, Vilainių sen.\, Kėdainių r.
+URL:https://kedainiai.lt/renginiai/244/tarptautines-asmenu-su-negalia-dieno
+ s-minejimas/event-9780
+DESCRIPTION:Renginio adresas - Parko g. 6\, Vilainiai\, Vilainių sen.\, K
+ ėdainių r. Renginio organizatorius - Kėdainių neįgaliųjų draugija *
+ Nemokamas renginys\n\nDaugiau: https://kedainiai.lt/renginiai/244/tarptaut
+ ines-asmenu-su-negalia-dienos-minejimas/event-9780
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tarptautinės asmenų su negalia dienos minėjimas
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Renginiai Kedainiu Rajone//LT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:f302b38916f75820@renginiaikedainiuose.lt
+DTSTAMP:20261128T161055Z
+DTSTART:20261202T110000Z
+DTEND:20261202T120000Z
+SUMMARY:Sveikatingumo dirbtuvės „Alavijo augalo nauda sveikatai ir grož
+ iui“. Lektorė Gitana Tugaudienė
+LOCATION:Kėdainių kultūros centro Surviliškio skyrius\, - Kėdainių g.
+  6\, Surviliškis\, Surviliškio sen.\, Kėdainių r.
+URL:https://kedainiai.lt/renginiai/244/sveikatingumo-dirbtuves-alavijo-auga
+ lo-nauda-sveikatai-ir-groziui.-lektore-gitana-tugaudiene/event-9775
+DESCRIPTION:Renginio adresas - Kėdainių g. 6\, Surviliškis\, Surviliški
+ o sen.\, Kėdainių r. Renginio organizatorius - Kėdainių kultūros cent
+ ro Surviliškio skyrius *Nemokamas renginys\n\nDaugiau: https://kedainiai.
+ lt/renginiai/244/sveikatingumo-dirbtuves-alavijo-augalo-nauda-sveikatai-ir
+ -groziui.-lektore-gitana-tugaudiene/event-9775
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Sveikatingumo dirbtuvės „Alavijo augalo nauda sveikatai ir g
+ rožiui“. Lektorė Gitana Tugaudienė
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

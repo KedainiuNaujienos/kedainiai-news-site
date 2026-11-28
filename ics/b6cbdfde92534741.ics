@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Renginiai Kedainiu Rajone//LT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:b6cbdfde92534741@renginiaikedainiuose.lt
+DTSTAMP:20261128T161055Z
+DTSTART:20261129T130000Z
+DTEND:20261129T140000Z
+SUMMARY:Advento popietė „Kai širdyse užsidega šviesa“
+LOCATION:Tiskūnų skyrius\, - Tiskūnų g. 7\, Tiskūnai\, Kėdainių r.
+URL:https://www.kedainiukulturoscentras.lt/renginiai/advento-popiete-kai-si
+ rdyse-uzsidega-sviesa/
+DESCRIPTION:Renginio adresas - Tiskūnų g. 7\, Tiskūnai\, Kėdainių r. R
+ enginio organizatorius - Kėdainių kultūros centro Tiskūnų skyrius *Ne
+ mokamas renginys\n\nDaugiau: https://www.kedainiukulturoscentras.lt/rengin
+ iai/advento-popiete-kai-sirdyse-uzsidega-sviesa/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Advento popietė „Kai širdyse užsidega šviesa“
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,31 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Renginiai Kedainiu Rajone//LT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6d7672a6b9724d70@renginiaikedainiuose.lt
+DTSTAMP:20261128T161055Z
+DTSTART:20261129T100000Z
+DTEND:20261129T120000Z
+SUMMARY:Krašto tyrinėtojų būrelio popietė „Dar kart apie Pernaravos 
+ šviesuolius“
+LOCATION:M. Daukšos viešosios bibliotekos Pernaravos struktūrinis terito
+ rinis padalinys\, - J. Juškytės g. 26\, Pernarava\, Pernaravos sen.
+URL:https://kedainiai.lt/renginiai/244/krasto-tyrinetoju-burelio-popiete-da
+ r-kart-apie-pernaravos-sviesuolius/event-9524
+DESCRIPTION:Renginio adresas - J. Juškytės g. 26\, Pernarava\, Pernaravos
+  sen. Renginio organizatorius - Josvainių kultūros centro Pernaravos sky
+ rius *Nemokamas renginys Renginys skirtas prisiminti žymias Pernaravos kr
+ ašto asmenybes. Susitikimas skirtas tradiciniam Pernaravos kultūros vaka
+ rui\, kuris vyks 2027 m. rugpjūčio/rugsėjo mėnesiais\, organizuoti\n\n
+ Daugiau: https://kedainiai.lt/renginiai/244/krasto-tyrinetoju-burelio-popi
+ ete-dar-kart-apie-pernaravos-sviesuolius/event-9524
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Krašto tyrinėtojų būrelio popietė „Dar kart apie Pernara
+ vos šviesuolius“
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

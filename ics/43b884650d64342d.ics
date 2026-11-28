@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Renginiai Kedainiu Rajone//LT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:43b884650d64342d@renginiaikedainiuose.lt
+DTSTAMP:20261128T161055Z
+DTSTART:20261206T070000Z
+DTEND:20261206T160000Z
+SUMMARY:Tarptautinis vaikų futbolo turnyras „Arena Cup“
+LOCATION:Kėdainių arena\, – J. Basanavičiaus g. 1A\, Kėdainiai
+URL:https://kedainiai.lt/renginiai/244/tarptautinis-vaiku-futbolo-turnyras-
+ arena-cup/event-9654
+DESCRIPTION:Renginio adresas – J. Basanavičiaus g. 1A\, Kėdainiai Rengi
+ nio organizatorius – VšĮ „Sporto Perspektyvos“ *Renginys nemokamas
+ \n\nDaugiau: https://kedainiai.lt/renginiai/244/tarptautinis-vaiku-futbolo
+ -turnyras-arena-cup/event-9654
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tarptautinis vaikų futbolo turnyras „Arena Cup“
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

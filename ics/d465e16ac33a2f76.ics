@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Renginiai Kedainiu Rajone//LT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:d465e16ac33a2f76@renginiaikedainiuose.lt
+DTSTAMP:20261128T161055Z
+DTSTART:20261215T160000Z
+DTEND:20261215T180000Z
+SUMMARY:Kūrybinis-edukacinis užsiėmimas. Kalėdinis atvirukas
+LOCATION:Josvainių kultūros centras\, - Karių a. 3\, Josvainiai\, Kėdai
+ nių r.
+URL:https://kedainiai.lt/renginiai/244/kurybinis-edukacinis-uzsiemimas.-kal
+ edinis-atvirukas/event-9711
+DESCRIPTION:Renginio adresas - Karių a. 3\, Josvainiai\, Kėdainių r. Ren
+ ginio organizatorius - Josvainių kultūros centras *Renginys nemokamas U
+ žsiėmimų metu dalyviai susipažins su kalėdinių atvirukų kūrimo tra
+ dicijomis\, lavins kūrybiškumą\, meninės raiškos gebėjimus bei prakt
+ inius įgūdžius\, taikydami įvairias dailės technikas ir kurdami indiv
+ idualius šventinius atvirukus.\n\nDaugiau: https://kedainiai.lt/renginiai
+ /244/kurybinis-edukacinis-uzsiemimas.-kaledinis-atvirukas/event-9711
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Kūrybinis-edukacinis užsiėmimas. Kalėdinis atvirukas
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

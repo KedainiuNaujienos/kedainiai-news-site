@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Renginiai Kedainiu Rajone//LT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:b334f7a13c63f819@renginiaikedainiuose.lt
+DTSTAMP:20261128T161055Z
+DTSTART:20261216T150000Z
+DTEND:20261216T160000Z
+SUMMARY:Kūrybinės dirbtuvėlės „Kalėdinių žaisliukų gaminimas“
+LOCATION:Kėdainių kultūros centro Pelėdnagių skyrius\, - V. Konceviči
+ aus g. 3\, Pelėdnagiai\, Pelėdnagių sen.\, Kėdainių r.
+URL:https://kedainiai.lt/renginiai/244/kurybines-dirbtuveles-kalediniu-zais
+ liuku-gaminimas/event-9774
+DESCRIPTION:Renginio adresas - V. Koncevičiaus g. 3\, Pelėdnagiai\, Pelė
+ dnagių sen.\, Kėdainių r. Renginio organizatorius - Kėdainių kultūro
+ s centro Pelėdnagių skyrius *Nemokamas renginys\n\nDaugiau: https://keda
+ iniai.lt/renginiai/244/kurybines-dirbtuveles-kalediniu-zaisliuku-gaminimas
+ /event-9774
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Kūrybinės dirbtuvėlės „Kalėdinių žaisliukų gaminimas
+ “
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

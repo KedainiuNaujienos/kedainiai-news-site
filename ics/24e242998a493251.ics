@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Renginiai Kedainiu Rajone//LT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:24e242998a493251@renginiaikedainiuose.lt
+DTSTAMP:20261128T161055Z
+DTSTART:20261219T100000Z
+DTEND:20261219T150000Z
+SUMMARY:Advento kūrybinių darbų paroda „Stebuklas - tas laukimas“
+LOCATION:Gudžiūnų bendruomenės namai\, - Tujų g. 54 \, Gudžiūnai\, K
+ ėdainių r.
+URL:https://kedainiai.lt/renginiai/244/advento-kurybiniu-darbu-paroda-stebu
+ klas-tas-laukimas/event-9703
+DESCRIPTION:Renginio adresas - Tujų g. 54 \, Gudžiūnai\, Kėdainių r. R
+ enginio organizatorius - Akademijos kultūros centro Gudžiūnų skyrius *
+ Nemokamas renginys\n\nDaugiau: https://kedainiai.lt/renginiai/244/advento-
+ kurybiniu-darbu-paroda-stebuklas-tas-laukimas/event-9703
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Advento kūrybinių darbų paroda „Stebuklas - tas laukimas
+ “
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

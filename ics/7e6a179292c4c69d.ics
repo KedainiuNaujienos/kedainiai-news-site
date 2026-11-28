@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Renginiai Kedainiu Rajone//LT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:7e6a179292c4c69d@renginiaikedainiuose.lt
+DTSTAMP:20261128T161055Z
+DTSTART:20261210T160000Z
+DTEND:20261210T173000Z
+SUMMARY:Advento vakaras „Šviesos belaukiant“. Dalyvauja solistė Andž
+ ela Mickutė
+LOCATION:Kėdainių kultūros centro Vilainių skyrius\, - Parko g. 6\, Vil
+ ainiai\, Vilainių sen.\, Kėdainių r.
+URL:https://kedainiai.lt/renginiai/244/advento-vakaras-sviesos-belaukiant.-
+ dalyvauja-soliste-andzela-mickute/event-9783
+DESCRIPTION:Renginio adresas - Parko g. 6\, Vilainiai\, Vilainių sen.\, K
+ ėdainių r. Renginio organizatorius - Kėdainių kultūros centro Vilaini
+ ų skyrius *Nemokamas renginys\n\nDaugiau: https://kedainiai.lt/renginiai/
+ 244/advento-vakaras-sviesos-belaukiant.-dalyvauja-soliste-andzela-mickute/
+ event-9783
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Advento vakaras „Šviesos belaukiant“. Dalyvauja solistė A
+ ndžela Mickutė
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

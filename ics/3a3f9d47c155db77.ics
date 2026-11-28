@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Renginiai Kedainiu Rajone//LT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:3a3f9d47c155db77@renginiaikedainiuose.lt
+DTSTAMP:20261128T161055Z
+DTSTART:20261207T160000Z
+DTEND:20261207T170000Z
+SUMMARY:Patyriminė ir kulinarinė edukacija „Meduolių dekoravimas“
+LOCATION:Kėdainių kultūros centro Labūnavos skyrius\, - Barupės g. 9\,
+  Labūnava\, Pelėdnagių sen.\, Kėdainių r.
+URL:https://kedainiai.lt/renginiai/244/patyrimine-ir-kulinarine-edukacija-m
+ eduoliu-dekoravimas/event-9762
+DESCRIPTION:Renginio adresas - Barupės g. 9\, Labūnava\, Pelėdnagių sen
+ .\, Kėdainių r. Renginio organizatorius - Kėdainių kultūros centro La
+ būnavos skyrius *Nemokamas renginys\n\nDaugiau: https://kedainiai.lt/reng
+ iniai/244/patyrimine-ir-kulinarine-edukacija-meduoliu-dekoravimas/event-97
+ 62
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Patyriminė ir kulinarinė edukacija „Meduolių dekoravimas
+ “
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

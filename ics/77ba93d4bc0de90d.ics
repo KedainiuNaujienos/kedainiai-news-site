@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Renginiai Kedainiu Rajone//LT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:77ba93d4bc0de90d@renginiaikedainiuose.lt
+DTSTAMP:20261128T161055Z
+DTSTART:20261203T080000Z
+DTEND:20261203T110000Z
+SUMMARY:Respublikinės priešmokyklinio ugdymo vaikų futboliuko sportinės
+  žaidynės „Nykštukų šėlsmas 2026“
+LOCATION:Kėdainių arena\, – J. Basanavičiaus g. 1A\, Kėdainiai
+URL:https://kedainiai.lt/renginiai/244/respublikines-priesmokyklinio-ugdymo
+ -vaiku-futboliuko-sportines-zaidynes-nykstuku-selsmas-2026/event-9648
+DESCRIPTION:Renginio adresas – J. Basanavičiaus g. 1A\, Kėdainiai Rengi
+ nio organizatorius – Kėdainių lopšelis-darželis „Žilvitis“\n\nD
+ augiau: https://kedainiai.lt/renginiai/244/respublikines-priesmokyklinio-u
+ gdymo-vaiku-futboliuko-sportines-zaidynes-nykstuku-selsmas-2026/event-9648
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Respublikinės priešmokyklinio ugdymo vaikų futboliuko sporti
+ nės žaidynės „Nykštukų šėlsmas 2026“
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

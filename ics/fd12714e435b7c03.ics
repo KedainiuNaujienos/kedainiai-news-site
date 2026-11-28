@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Renginiai Kedainiu Rajone//LT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:fd12714e435b7c03@renginiaikedainiuose.lt
+DTSTAMP:20261128T161055Z
+DTSTART:20261227T150000Z
+DTEND:20261227T160000Z
+SUMMARY:Miuziklas PARYŽIAUS KATEDRA (Domino teatras)
+LOCATION:Kėdainių kultūros centras\, - J. Basanavičiaus 24\, Kėdainiai
+  * Bilietai ir daugiau informacijos
+URL:https://kedainiai.lt/renginiai/244/miuziklas-paryziaus-katedra-domino-t
+ eatras/event-9302
+DESCRIPTION:Renginio organizatorius - Comedy Productions\, UAB Renginio adr
+ esas - J. Basanavičiaus 24\, Kėdainiai * Bilietai ir daugiau informacijo
+ s\n\nDaugiau: https://kedainiai.lt/renginiai/244/miuziklas-paryziaus-kated
+ ra-domino-teatras/event-9302
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Miuziklas PARYŽIAUS KATEDRA (Domino teatras)
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

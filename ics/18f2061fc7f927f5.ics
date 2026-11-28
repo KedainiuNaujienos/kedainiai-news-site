@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Renginiai Kedainiu Rajone//LT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:18f2061fc7f927f5@renginiaikedainiuose.lt
+DTSTAMP:20261128T161055Z
+DTSTART:20261203T173000Z
+DTEND:20261203T183000Z
+SUMMARY:Advento vakaras \,\,Saulėgrįžos belaukiant”
+LOCATION:Pagirių skyrius\, Liepų g. 21\, Pagiriai\, Šėtos sen. Kėdaini
+ ų r.\, 58486
+URL:https://www.setoskultura.lt/renginiai/advento-vakaras-saulegrizos-belau
+ kiant/
+DESCRIPTION:Advento vakaro metu Adventas. Leliumai. Rimties\, apsivalymo ir
+  vidinio susikaupimo metas prieš Saulėgrįža\, žiemos Solsticiją\, š
+ v. Kalėdas. Šio laikotarpio šventės ir apeigos mena tūkstantmečių i
+ storiją. Jos\, kaip ir kiekvienas itin senas reiškinys yra simboliškas\
+ , daugiareikšmis ir apsigaubęs daugybe prasmių sluoksnių. Kviečiame s
+ usiburti draugėn Advento vakarui.\n\nDaugiau: https://www.setoskultura.lt
+ /renginiai/advento-vakaras-saulegrizos-belaukiant/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Advento vakaras \,\,Saulėgrįžos belaukiant”
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Renginiai Kedainiu Rajone//LT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:33c3f15387962ac1@renginiaikedainiuose.lt
+DTSTAMP:20261128T161055Z
+DTSTART:20261204T160000Z
+DTEND:20261204T170000Z
+SUMMARY:Šėtos miestelio eglutės įžiebimo šventė „Įžiebkime Kalė
+ das“
+LOCATION:Šėtos kultūros centras\, - Kėdainių g. 6\, Šėta\, Kėdaini
+ ų r.
+URL:https://kedainiai.lt/renginiai/244/setos-miestelio-eglutes-iziebimo-sve
+ nte-iziebkime-kaledas/event-9679
+DESCRIPTION:Renginio adresas - Kėdainių g. 6\, Šėta\, Kėdainių r. Ren
+ ginio organizatorius - Šėtos kultūros centras *Renginys nemokamas Vaik
+ ų laukia programa su „Žalia vaikų kūdra“\n\nDaugiau: https://kedai
+ niai.lt/renginiai/244/setos-miestelio-eglutes-iziebimo-svente-iziebkime-ka
+ ledas/event-9679
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Šėtos miestelio eglutės įžiebimo šventė „Įžiebkime K
+ alėdas“
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

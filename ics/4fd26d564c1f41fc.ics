@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Renginiai Kedainiu Rajone//LT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:4fd26d564c1f41fc@renginiaikedainiuose.lt
+DTSTAMP:20261128T161055Z
+DTSTART:20261215T110000Z
+DTEND:20261215T120000Z
+SUMMARY:Spektaklis „Šventė“
+LOCATION:Akademijos kultūros centras\, - Stoties g. 9\, Akademija\, Kėdai
+ nių r.
+URL:https://kedainiai.lt/renginiai/244/spektaklis-svente/event-9693
+DESCRIPTION:Renginio adresas - Stoties g. 9\, Akademija\, Kėdainių r. Ren
+ ginio organizatoriai - Akademijos kultūros centras ir Akademijos gimnazij
+ a *Nemokamas renginys\n\nDaugiau: https://kedainiai.lt/renginiai/244/spekt
+ aklis-svente/event-9693
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Spektaklis „Šventė“
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

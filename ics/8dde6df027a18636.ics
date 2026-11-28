@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Renginiai Kedainiu Rajone//LT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:8dde6df027a18636@renginiaikedainiuose.lt
+DTSTAMP:20261128T161055Z
+DTSTART:20261211T160000Z
+DTEND:20261211T170000Z
+SUMMARY:Advento vakaras „Tylūs žodžiai\, skambančios širdys“. Dain
+ uojamosios poezijos atlikėjai Jonas Baltokas ir Daiva
+LOCATION:Kėdainių kultūros centro Surviliškio skyrius\, - Kėdainių g.
+  6\, Surviliškis\, Surviliškio sen.\, Kėdainių r.
+URL:https://kedainiai.lt/renginiai/244/advento-vakaras-tylus-zodziai-skamba
+ ncios-sirdys.-dainuojamosios-poezijos-atlikejai-jonas-baltokas-ir-daiva/ev
+ ent-9776
+DESCRIPTION:Renginio adresas - Kėdainių g. 6\, Surviliškis\, Surviliški
+ o sen.\, Kėdainių r. Renginio organizatorius - Kėdainių kultūros cent
+ ro Surviliškio skyrius *Nemokamas renginys\n\nDaugiau: https://kedainiai.
+ lt/renginiai/244/advento-vakaras-tylus-zodziai-skambancios-sirdys.-dainuoj
+ amosios-poezijos-atlikejai-jonas-baltokas-ir-daiva/event-9776
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Advento vakaras „Tylūs žodžiai\, skambančios širdys“. 
+ Dainuojamosios poezijos atlikėjai Jonas Baltokas ir Daiva
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

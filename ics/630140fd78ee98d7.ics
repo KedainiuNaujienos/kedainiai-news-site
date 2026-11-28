@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Renginiai Kedainiu Rajone//LT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:630140fd78ee98d7@renginiaikedainiuose.lt
+DTSTAMP:20261128T161055Z
+DTSTART:20261201T100000Z
+DTEND:20261202T100000Z
+SUMMARY:Austinių senovinių lovatiesių paroda „Iš močiutės skrynios
+ “
+LOCATION:Krakių kultūros centro Meironiškių skyrius\, - Saulėtekio 7\,
+  Meironiškiai\, Kėdainių r.
+URL:https://kedainiai.lt/renginiai/244/austiniu-senoviniu-lovatiesiu-paroda
+ -is-mociutes-skrynios/event-9720
+DESCRIPTION:Renginio adresas - Saulėtekio 7\, Meironiškiai\, Kėdainių r
+ . Renginio organizatorius - Krakių kultūros centro Meironiškių skyrius
+  *Parodos lankymas nemokamas\n\nDaugiau: https://kedainiai.lt/renginiai/24
+ 4/austiniu-senoviniu-lovatiesiu-paroda-is-mociutes-skrynios/event-9720
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Austinių senovinių lovatiesių paroda „Iš močiutės skryn
+ ios“
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

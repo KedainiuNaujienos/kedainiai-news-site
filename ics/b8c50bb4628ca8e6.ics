@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Renginiai Kedainiu Rajone//LT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:b8c50bb4628ca8e6@renginiaikedainiuose.lt
+DTSTAMP:20261128T161055Z
+DTSTART:20261212T110000Z
+DTEND:20261212T120000Z
+SUMMARY:Kūrybinės dirbtuvėlės „Kalėdinių dekoracijų gaminimas“
+LOCATION:Kėdainių kultūros centro Nociūnų skyrius\, - Pėdžių g. 19\
+ , Nociūnų k.\, Pelėdnagių sen.\, Kėdainių r.
+URL:https://kedainiai.lt/renginiai/244/kurybines-dirbtuveles-kalediniu-deko
+ raciju-gaminimas/event-9768
+DESCRIPTION:Renginio adresas - Pėdžių g. 19\, Nociūnų k.\, Pelėdnagi
+ ų sen.\, Kėdainių r. Renginio organizatorius - Kėdainių kultūros cen
+ tro Nociūnų skyrius *Nemokamas renginys\n\nDaugiau: https://kedainiai.lt
+ /renginiai/244/kurybines-dirbtuveles-kalediniu-dekoraciju-gaminimas/event-
+ 9768
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Kūrybinės dirbtuvėlės „Kalėdinių dekoracijų gaminimas
+ “
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

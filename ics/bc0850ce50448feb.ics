@@ -1,0 +1,31 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Renginiai Kedainiu Rajone//LT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:bc0850ce50448feb@renginiaikedainiuose.lt
+DTSTAMP:20261128T161055Z
+DTSTART:20261210T160000Z
+DTEND:20261210T180000Z
+SUMMARY:Miuziklas „Vėjo nublokšti“
+LOCATION:Kėdainių kultūros centras
+URL:https://kedainiai.lt/renginiai/244/miuziklas-vejo-nubloksti/event-9109
+DESCRIPTION:Organizatorius - VšĮ „Muzikos turo pramogos” Adresas - J.
+  Basanavičiaus 24\, Kėdainiai Bilietai ir daugiau informacijos Gruodžio
+  10 d. 18:00 Kėdainių kultūros centre vyks spalvingiausio metų miuzikl
+ o „Vėjo nublokšti“ premjera. Tai unikalus muzikinis spektaklis apie 
+ romantišką ilgesį ir viltį\, kuri gimsta iš atkaklaus siekio išsaugo
+ ti begalinę meilę. Tai jausminga ir kupina skaudžių išgyvenimų meil
+ ės istorija\, kurioje kiekvienas nori mylėti ir būti mylimas. Čia apju
+ ngti gražiausi visų pamėgti pasauliniai ir lietuviški hitai\, gaivali
+ škas temperamentas ir aistringi šokiai. Pasirodymo metu vėją…\n\nDau
+ giau: https://kedainiai.lt/renginiai/244/miuziklas-vejo-nubloksti/event-91
+ 09
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Miuziklas „Vėjo nublokšti“
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

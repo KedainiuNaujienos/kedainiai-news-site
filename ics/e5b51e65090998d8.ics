@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Renginiai Kedainiu Rajone//LT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:e5b51e65090998d8@renginiaikedainiuose.lt
+DTSTAMP:20261128T161055Z
+DTSTART:20261216T140000Z
+DTEND:20261216T150000Z
+SUMMARY:Gudžiūnų miestelio Eglės įžiebimo šventė
+LOCATION:Gudžiūnų miestelio centras\, - Tujų g. 60\, Gudžiūnai\, Kėd
+ ainių r.
+URL:https://kedainiai.lt/renginiai/244/gudziunu-miestelio-egles-iziebimo-sv
+ ente/event-9701
+DESCRIPTION:Renginio adresas - Tujų g. 60\, Gudžiūnai\, Kėdainių r. Re
+ nginio organizatorius - Akademijos kultūros centro Gudžiūnų skyrius *N
+ emokamas renginys Muzikinė Kalėdinė programa \,\,Stebuklingos Kalėdos"
+  ir susitikimas su Kalėdų seneliu\n\nDaugiau: https://kedainiai.lt/rengi
+ niai/244/gudziunu-miestelio-egles-iziebimo-svente/event-9701
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Gudžiūnų miestelio Eglės įžiebimo šventė
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

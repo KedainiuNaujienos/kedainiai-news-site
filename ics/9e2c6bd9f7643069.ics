@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Renginiai Kedainiu Rajone//LT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:9e2c6bd9f7643069@renginiaikedainiuose.lt
+DTSTAMP:20261128T161055Z
+DTSTART:20261211T150000Z
+DTEND:20261211T170000Z
+SUMMARY:Dotnuvos miestelio eglutės įžiebimo šventė
+LOCATION:Dotnuvos bendruomenės namai\, - Vytauto g. 57A\, Dotnuva\, Kėdai
+ nių r.
+URL:https://kedainiai.lt/renginiai/244/dotnuvos-miestelio-eglutes-iziebimo-
+ svente/event-9696
+DESCRIPTION:Renginio adresas - Vytauto g. 57A\, Dotnuva\, Kėdainių r. Ren
+ ginio organizatorius - Akademijos kultūros centro Dotnuvos skyrius *Nemok
+ amas renginys Salėje vaikams susitikimas su linksmosiomis nykštukėmis. 
+ Po susitikimo programos lauke įžiebiama Kalėdų eglutė ir dovanojamos 
+ Kalėdų Senelio dovanos\n\nDaugiau: https://kedainiai.lt/renginiai/244/do
+ tnuvos-miestelio-eglutes-iziebimo-svente/event-9696
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Dotnuvos miestelio eglutės įžiebimo šventė
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

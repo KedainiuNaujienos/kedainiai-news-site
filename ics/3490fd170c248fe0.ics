@@ -1,0 +1,31 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Renginiai Kedainiu Rajone//LT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:3490fd170c248fe0@renginiaikedainiuose.lt
+DTSTAMP:20261128T161055Z
+DTSTART:20261213T140000Z
+DTEND:20261213T160000Z
+SUMMARY:Medžiaginių žaisliukų dirbtuvės „Kalėdų pasakos belaukiant
+ “
+LOCATION:Šėtos kultūros centras\, Kėdainių g. 6\, Šėta\, 58131
+URL:https://www.setoskultura.lt/renginiai/medziaginiu-zaisliuku-dirbtuves-k
+ aledu-pasakos-belaukiant/
+DESCRIPTION:Jaukių ir šiltų kalėdinių eglutės žaisliukų gamyba. Sus
+ ipažinsime su paprastais siuvimo ir dekoravimo būdais\, mokysimės kruop
+ štumo\, kūrybiškumo ir kantrybės. Kiekvienas dalyvis pasigamins savit
+ ą\, šiluma ir kalėdine nuotaika alsuojantį žaisliuką\, kuris galės 
+ papuošti jo namų eglutę arba tapti ypatinga rankų darbo dovana. Būtin
+ a registracija (telefonu +370 647 74778)\, edukacija nemokama.\n\nDaugiau:
+  https://www.setoskultura.lt/renginiai/medziaginiu-zaisliuku-dirbtuves-kal
+ edu-pasakos-belaukiant/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Medžiaginių žaisliukų dirbtuvės „Kalėdų pasakos belauk
+ iant“
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

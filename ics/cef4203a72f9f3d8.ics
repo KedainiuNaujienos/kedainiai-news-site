@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Renginiai Kedainiu Rajone//LT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:cef4203a72f9f3d8@renginiaikedainiuose.lt
+DTSTAMP:20261128T161055Z
+DTSTART:20261129T080000Z
+DTEND:20261129T090000Z
+SUMMARY:Koncertas „Advento apkabinimas“
+LOCATION:Šv. Juozapo bažnyčia\, - Radvilų g. 10\, Kėdainiai *Nemokamas
+  renginys
+URL:https://www.kedainiukulturoscentras.lt/renginiai/koncertas-advento-apka
+ binimas/
+DESCRIPTION:Renginio organizatorius - Kėdainių kultūros centras Renginio
+  adresas - Radvilų g. 10\, Kėdainiai *Nemokamas renginys\n\nDaugiau: htt
+ ps://www.kedainiukulturoscentras.lt/renginiai/koncertas-advento-apkabinima
+ s/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Koncertas „Advento apkabinimas“
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Renginiai Kedainiu Rajone//LT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:1426a33bc9dc3ac4@renginiaikedainiuose.lt
+DTSTAMP:20261128T161055Z
+DTSTART:20261205T100000Z
+DTEND:20261205T200000Z
+SUMMARY:Kalėdinių eglučių parkas
+LOCATION:Kėdainių Knypavos Rinkos aikštė\, - Knypavos Rinkos aikštė\,
+  Kėdainiai
+URL:https://kedainiai.lt/renginiai/244/kalediniu-egluciu-parkas/event-9671
+DESCRIPTION:Renginio adresas - Knypavos Rinkos aikštė\, Kėdainiai Rengin
+ io organizatorius - Kėdainių kultūros centras *Nemokamas renginys Kalė
+ dinių eglučių parkas veiks iki 2027 m. sausio 5 d.\n\nDaugiau: https://
+ kedainiai.lt/renginiai/244/kalediniu-egluciu-parkas/event-9671
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Kalėdinių eglučių parkas
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

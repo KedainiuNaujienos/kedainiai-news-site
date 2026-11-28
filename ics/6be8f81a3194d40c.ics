@@ -1,0 +1,34 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Renginiai Kedainiu Rajone//LT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6be8f81a3194d40c@renginiaikedainiuose.lt
+DTSTAMP:20261128T161055Z
+DTSTART:20261206T150000Z
+DTEND:20261206T160000Z
+SUMMARY:Kėdainių ledo arenos naujojo sezono atidarymas
+LOCATION:Kėdainių ledo arena (Chemikų g. 30)\, - Chemikų 30\, Kėdainia
+ i (prie Lietuvos sporto universiteto Kėdainių „Aušros“ progimnazijo
+ s)
+URL:https://kedainiai.lt/renginiai/244/kedainiu-ledo-arenos-naujojo-sezono-
+ atidarymas/event-9770
+DESCRIPTION:Renginio adresas - Chemikų 30\, Kėdainiai (prie Lietuvos spor
+ to universiteto Kėdainių „Aušros“ progimnazijos) Renginio organizat
+ oriai - Kėdainių sporto centras ir Kėdainių rajono savivaldybė *Rengi
+ nys nemokamas Kėdainių sporto centras kartu su Kėdainių rajono savival
+ dybe gruodžio 6 d. 17.00 val. visus kėdainiečius ir miesto svečius kvi
+ ečia į Ledo arenos naujojo sezono atidarymą! Jau tradiciškai šventin
+ ę atmosferą kurs įspūdingi ledo čiuožėjų pasirodymai ir smagi muzi
+ ka\, o žiemišką vakarą sušildys karšta arbata bei gardūs sausainiai
+ . Žinoma\, po atidarymo visi pasiilgusieji žiemiškų pramogų…\n\nDau
+ giau: https://kedainiai.lt/renginiai/244/kedainiu-ledo-arenos-naujojo-sezo
+ no-atidarymas/event-9770
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Kėdainių ledo arenos naujojo sezono atidarymas
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

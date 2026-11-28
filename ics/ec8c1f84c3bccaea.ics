@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Renginiai Kedainiu Rajone//LT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:ec8c1f84c3bccaea@renginiaikedainiuose.lt
+DTSTAMP:20261128T161055Z
+DTSTART:20261219T120000Z
+DTEND:20261219T130000Z
+SUMMARY:Kalėdinės kūrybinės dirbtuvėlės
+LOCATION:M.Daukšos viešosios bibliotekos Vaikų ir jaunimo skyrius\, - Di
+ džiosios Rinkos a. 4\, Kėdainiai
+URL:https://kedainiai.lt/renginiai/244/kaledines-kurybines-dirbtuveles/even
+ t-9753
+DESCRIPTION:Renginio adresas - Didžiosios Rinkos a. 4\, Kėdainiai Rengini
+ o organizatorius - Kėdainių kultūros centras Registracija tel. +370 652
+  26793 *Nemokamas renginys\n\nDaugiau: https://kedainiai.lt/renginiai/244/
+ kaledines-kurybines-dirbtuveles/event-9753
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Kalėdinės kūrybinės dirbtuvėlės
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

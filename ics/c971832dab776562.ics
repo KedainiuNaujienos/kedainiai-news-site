@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Renginiai Kedainiu Rajone//LT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:c971832dab776562@renginiaikedainiuose.lt
+DTSTAMP:20261128T161055Z
+DTSTART:20261205T140000Z
+DTEND:20261205T160000Z
+SUMMARY:Akcija „Maltiečių sriuba“
+LOCATION:Kėdainių Didžiosios Rinkos aikštė\, - Didžiosios Rinkos aik
+ štė
+URL:https://kedainiai.lt/renginiai/244/akcija-maltieciu-sriuba/event-9746
+DESCRIPTION:Renginio adresas - Didžiosios Rinkos aikštė Renginio organiz
+ atorius - UAB „Eligura“ Daugiau informacijos Gruodžio 5-ąją kvieči
+ ame kurti SAVAS KALĖDAS Kėdainiuose! Susitikime Didžiosios Rinkos aikš
+ tėje\, kur kartu įžiebsime ne tik miesto eglę\, bet ir šventinę nuot
+ aiką savo širdyse.\n\nDaugiau: https://kedainiai.lt/renginiai/244/akcija
+ -maltieciu-sriuba/event-9746
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Akcija „Maltiečių sriuba“
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

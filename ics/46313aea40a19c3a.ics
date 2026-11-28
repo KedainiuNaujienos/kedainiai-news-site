@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Renginiai Kedainiu Rajone//LT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:46313aea40a19c3a@renginiaikedainiuose.lt
+DTSTAMP:20261128T161055Z
+DTSTART:20261216T153000Z
+DTEND:20261216T163000Z
+SUMMARY:Kėdainių krašto Kultūros premijos įteikimo ceremonija
+LOCATION:Kėdainių miesto Rotušė\, - Didžioji g. 1\, Kėdainiai
+URL:https://kedainiai.lt/renginiai/244/kedainiu-krasto-kulturos-premijos-it
+ eikimo-ceremonija/event-9752
+DESCRIPTION:Renginio adresas - Didžioji g. 1\, Kėdainiai Renginio organiz
+ atorius - Kėdainių rajono savivaldybė *Renginys su kvietimais Šventės
+  metu - styginių kvarteto IPA ir solistės Guntos Gelgotės (sopranas) ko
+ ncertinė programa\n\nDaugiau: https://kedainiai.lt/renginiai/244/kedainiu
+ -krasto-kulturos-premijos-iteikimo-ceremonija/event-9752
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Kėdainių krašto Kultūros premijos įteikimo ceremonija
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

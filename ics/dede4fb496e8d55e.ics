@@ -1,0 +1,32 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Renginiai Kedainiu Rajone//LT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:dede4fb496e8d55e@renginiaikedainiuose.lt
+DTSTAMP:20261128T161055Z
+DTSTART:20261203T150000Z
+DTEND:20261203T160000Z
+SUMMARY:Advento vakaras „Saulėgrįžos belaukiant“
+LOCATION:Šėtos kultūros centras\, Kėdainių g. 6\, Šėta\, 58131
+URL:https://www.setoskultura.lt/renginiai/advento-vakaras-saulegrizos-belau
+ kiant-2/
+DESCRIPTION:„Saulėgrįžos belaukiant“ – adventinių dainų vakaras 
+ Šėtoje Kokią dainą prisimenate iš vaikystės? Gal žodžiai jau primi
+ ršti\, o melodiją dar galite paniūniuoti. Taip iš kartos į kartą kel
+ iauja dainos – kas nors uždainuoja\, kas nors įsiklauso ir po daugelio
+  metų prisimena. Gruodžio 3-iosios vakarą į Šėtą senąsias advento 
+ dainas atveža folkloristė\, projekto „Promočių giesmės“ kūrėja 
+ Laurita Peleniūtė ir smuikininkas Tadas Dešukas. Kviečiame išgirsti\,
+  kaip senosiose advento dainose skamba mūsų protėvių palikimas. Ateiki
+ te su artimaisiais ar kaimynais. Gal kurią melodiją niūniuosite ir pake
+ liui…\n\nDaugiau: https://www.setoskultura.lt/renginiai/advento-vakaras-
+ saulegrizos-belaukiant-2/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Advento vakaras „Saulėgrįžos belaukiant“
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

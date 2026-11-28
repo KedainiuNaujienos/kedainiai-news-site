@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Renginiai Kedainiu Rajone//LT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:64534b51645f68db@renginiaikedainiuose.lt
+DTSTAMP:20261128T161055Z
+DTSTART:20261219T110000Z
+DTEND:20261219T120000Z
+SUMMARY:Kūrybinės dirbtuvės ir susitikimas su Kalėdų Seneliu „Misija
+  – Kalėdos!“
+LOCATION:Kėdainių kultūros centro Kalnaberžės skyrius\, - Beržų g. 6
+ 0\, Kalnaberžė\, Surviliškio sen.\, Kėdainių r.
+URL:https://kedainiai.lt/renginiai/244/kurybines-dirbtuves-ir-susitikimas-s
+ u-kaledu-seneliu-misija-kaledos/event-9759
+DESCRIPTION:Renginio adresas - Beržų g. 60\, Kalnaberžė\, Surviliškio 
+ sen.\, Kėdainių r. Renginio organizatorius - Kėdainių kultūros centro
+  Kalnaberžės skyrius *Nemokamas renginys\n\nDaugiau: https://kedainiai.l
+ t/renginiai/244/kurybines-dirbtuves-ir-susitikimas-su-kaledu-seneliu-misij
+ a-kaledos/event-9759
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Kūrybinės dirbtuvės ir susitikimas su Kalėdų Seneliu „Mi
+ sija – Kalėdos!“
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

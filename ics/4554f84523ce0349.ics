@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Renginiai Kedainiu Rajone//LT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:4554f84523ce0349@renginiaikedainiuose.lt
+DTSTAMP:20261128T161055Z
+DTSTART:20261211T170000Z
+DTEND:20261211T190000Z
+SUMMARY:Kalėdos su Stasio Povilaičio dainomis
+LOCATION:Kėdainių arena\, - J. Basanavičiaus g. 1A\, Kėdainiai
+URL:https://kedainiuarena.lt/renginiai/kaledos-su-stasio-povilaicio-dainomi
+ s/?occurrence=2026-12-11
+DESCRIPTION:Bilietai: https://kakava.lt/renginys/kaledos-su-stasio-povilaic
+ io-dainomis/12378/25725 „Kristina“\, „Sudeginti tiltai“\, „Švie
+ ski man vėl“\, „Aidi aidi“\, „Čigonės akys“\, „Atsisveikini
+ mas prie jūros“\, „Pago Pago“\, „Pienės pūkas“... Tai tik kel
+ ios dainos\, kurių žodžius mintinai moka ištisos kartos. Tai kūriniai
+ \, be kurių neapsieina nei viena šventė ir kurie jau seniai tapo lietuv
+ iškos muzikos aukso fondo dalimi. Tai – legendinio maestro STASIO POVIL
+ AIČIO palikimas. Šį\n\nDaugiau: https://kedainiuarena.lt/renginiai/kale
+ dos-su-stasio-povilaicio-dainomis/?occurrence=2026-12-11
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Kalėdos su Stasio Povilaičio dainomis
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

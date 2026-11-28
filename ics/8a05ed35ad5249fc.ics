@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Renginiai Kedainiu Rajone//LT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:8a05ed35ad5249fc@renginiaikedainiuose.lt
+DTSTAMP:20261128T161055Z
+DTSTART:20261210T160000Z
+DTEND:20261210T170000Z
+SUMMARY:Šventinis grupės „Džentelmenai“ koncertas
+LOCATION:Truskavos kultūros centras\, - Derliaus g. 5-1\, Pavermenio k.\, 
+ Kėdainių r.
+URL:https://kedainiai.lt/renginiai/244/sventinis-grupes-dzentelmenai-koncer
+ tas/event-9674
+DESCRIPTION:Renginio adresas - Derliaus g. 5-1\, Pavermenio k.\, Kėdainių
+  r. Renginio organizatorius - Truskavos kultūros centras *Renginys nemoka
+ mas\n\nDaugiau: https://kedainiai.lt/renginiai/244/sventinis-grupes-dzente
+ lmenai-koncertas/event-9674
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Šventinis grupės „Džentelmenai“ koncertas
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

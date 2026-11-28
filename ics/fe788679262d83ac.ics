@@ -1,0 +1,32 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Renginiai Kedainiu Rajone//LT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:fe788679262d83ac@renginiaikedainiuose.lt
+DTSTAMP:20261128T161055Z
+DTSTART:20261210T173000Z
+DTEND:20261210T180000Z
+SUMMARY:Kalėdų eglės įžiebimas Truskavoje. Susitikimas su Kalėdų sen
+ eliu
+LOCATION:Truskavos seniūnijos kiemas\, - Liepų g. 2\, Pavermenio k.\, Kė
+ dainių r. Renginio organizatorusi - Truskavos kultūros centras Partneria
+ i: Truskavos seniūnija\, Truskavos bendruomenės centras\, Okainių bendr
+ uomenės centras\, Petkūnų bendruomenės centras *Renginys nemokamas
+URL:https://kedainiai.lt/renginiai/244/kaledu-egles-iziebimas-truskavoje.-s
+ usitikimas-su-kaledu-seneliu/event-9675
+DESCRIPTION:Renginio adresas - Liepų g. 2\, Pavermenio k.\, Kėdainių r. 
+ Renginio organizatorusi - Truskavos kultūros centras Partneriai: Truskavo
+ s seniūnija\, Truskavos bendruomenės centras\, Okainių bendruomenės ce
+ ntras\, Petkūnų bendruomenės centras *Renginys nemokamas\n\nDaugiau: ht
+ tps://kedainiai.lt/renginiai/244/kaledu-egles-iziebimas-truskavoje.-susiti
+ kimas-su-kaledu-seneliu/event-9675
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Kalėdų eglės įžiebimas Truskavoje. Susitikimas su Kalėdų
+  seneliu
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

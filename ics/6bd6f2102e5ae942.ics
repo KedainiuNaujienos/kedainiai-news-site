@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Renginiai Kedainiu Rajone//LT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6bd6f2102e5ae942@renginiaikedainiuose.lt
+DTSTAMP:20261128T161055Z
+DTSTART:20261203T130000Z
+DTEND:20261203T150000Z
+SUMMARY:Advento vakaras „Smėlio mandalos ir spalvų magija“
+LOCATION:Dotnuvos vienuolynas\, - Vytauto g. 57\, Dotnuva\, Kėdainių r.
+URL:https://kedainiai.lt/renginiai/244/advento-vakaras-smelio-mandalos-ir-s
+ palvu-magija/event-9695
+DESCRIPTION:Renginio adresas - Vytauto g. 57\, Dotnuva\, Kėdainių r. Reng
+ inio organizatorius - Akademijos kultūros centro Dotnuvos skyrius *Nemoka
+ mas renginys Dalyvauja edukatorė Rita Klevinskenė su smėlio priemonėmi
+ s\, dažais ir pasakojimu apie spalvų magiją. Kuriamos 20 X 20 formato m
+ andalos. Registracija telefonu Nr. +370 685 50807\n\nDaugiau: https://keda
+ iniai.lt/renginiai/244/advento-vakaras-smelio-mandalos-ir-spalvu-magija/ev
+ ent-9695
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Advento vakaras „Smėlio mandalos ir spalvų magija“
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

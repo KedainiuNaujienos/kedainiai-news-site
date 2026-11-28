@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Renginiai Kedainiu Rajone//LT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:4f19b1713d4c34d9@renginiaikedainiuose.lt
+DTSTAMP:20261128T161055Z
+DTSTART:20261220T150000Z
+DTEND:20261220T160000Z
+SUMMARY:Premjera KLINIKA / DOMINO teatras
+LOCATION:Kėdainių kultūros centras\, - J. Basanavičiaus g. 24\, Kėdain
+ iai
+URL:https://kedainiai.lt/renginiai/244/premjera-klinika-domino-teatras/even
+ t-9301
+DESCRIPTION:Renginio adresas - J. Basanavičiaus g. 24\, Kėdainiai Rengini
+ o organizatorius - Comedy Productions\, UAB Bilietai ir daugiau informacij
+ os „KLINIKA“ – beprotiška komedija apie tai\, kas nutinka\, kai vie
+ nas žmogus pasako garsiai tai\, ką visi kiti galvoja tyliai. Bus tiesiai
+  šviesiai. Bus nepatogu. Ir bus labai juokinga.\n\nDaugiau: https://kedai
+ niai.lt/renginiai/244/premjera-klinika-domino-teatras/event-9301
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Premjera KLINIKA / DOMINO teatras
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

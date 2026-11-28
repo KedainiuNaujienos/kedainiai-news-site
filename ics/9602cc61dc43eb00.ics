@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Renginiai Kedainiu Rajone//LT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:9602cc61dc43eb00@renginiaikedainiuose.lt
+DTSTAMP:20261128T161055Z
+DTSTART:20261201T170000Z
+DTEND:20261201T190000Z
+SUMMARY:Advento vakaras „Advento laiką leiskime kartu”
+LOCATION:Miegėnų bendruomenės namai\, - Draugystės g. 40\, Miegėnai\, 
+ Kėdainių r.
+URL:https://kedainiai.lt/renginiai/244/advento-vakaras-advento-laika-leiski
+ me-kartu/event-9697
+DESCRIPTION:Renginio adresas - Draugystės g. 40\, Miegėnai\, Kėdainių r
+ . Renginio organizatorius - Akademijos kultūros centro Gudžiūnų skyriu
+ s *Nemokamas renginys Radviliškio miesto kultūros centro Pakiršinio dva
+ ro etninės kultūros ir amatų filialo folkloro ansamblio „Dainoriai”
+  koncertinė programa\n\nDaugiau: https://kedainiai.lt/renginiai/244/adven
+ to-vakaras-advento-laika-leiskime-kartu/event-9697
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Advento vakaras „Advento laiką leiskime kartu”
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

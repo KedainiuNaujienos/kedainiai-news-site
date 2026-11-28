@@ -1,0 +1,32 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Renginiai Kedainiu Rajone//LT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:ca2e817547426023@renginiaikedainiuose.lt
+DTSTAMP:20261128T161055Z
+DTSTART:20261202T080000Z
+DTEND:20261202T090000Z
+SUMMARY:Kraštiečių susitikimas Kėdainiuose
+LOCATION:Kėdainių rajono savivaldybė\, - J. Basanavčiaus 36\, Kėdainia
+ i
+URL:https://kedainiai.lt/renginiai/244/krastieciu-susitikimas-kedainiuose/e
+ vent-9663
+DESCRIPTION:Renginio adresas - J. Basanavčiaus 36\, Kėdainiai Renginio or
+ ganizatoriai - Kėdainių rajono savivaldybė ir Užimtumo tarnybos prie L
+ R socialinės apsaugos ir darbo ministerijos Kėdainių skyrius Kad ir kur
+  šiandien gyventumėte\, kviečiame susitikti ir pasikalbėti apie tai\, 
+ kas pasikeitė mūsų krašte\, kokių čia yra darbo galimybių ir kas r
+ ūpi svarstantiems sugrįžti bei sugrįžusiems. Norime išgirsti ir jūs
+ ų istorijas! Registracija e.p. justina.koriznaite@kedainiai.lt Susitikime
+  gruodžio 2 d. 10.00 val. Kėdainių rajono savivaldybėje (J. Basanavič
+ iaus g. 36\, Kėdainiai). Daugiau informacijos ir…\n\nDaugiau: https://k
+ edainiai.lt/renginiai/244/krastieciu-susitikimas-kedainiuose/event-9663
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Kraštiečių susitikimas Kėdainiuose
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

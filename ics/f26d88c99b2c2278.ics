@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Renginiai Kedainiu Rajone//LT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:f26d88c99b2c2278@renginiaikedainiuose.lt
+DTSTAMP:20261128T161055Z
+DTSTART:20261206T150000Z
+DTEND:20261206T200000Z
+SUMMARY:Šviesų festivalis „Šviesos kronikos“ Kėdainių senamiestyje
+LOCATION:Kėdainių senamiestis\, - Kėdainių senamiestis
+URL:https://kedainiai.lt/renginiai/244/sviesu-festivalis-sviesos-kronikos-k
+ edainiu-senamiestyje/event-9634
+DESCRIPTION:Renginio adresas - Kėdainių senamiestis Renginio organizatori
+ us - Kėdainių kultūros centras Gruodžio 5 ir 6 dienomis kviečiame į 
+ vakarinį pasivaikščiojimą po Kėdainių senamiestį. Dviem vakarams jo
+  gatvės ir erdvės taps šviesos\, garso ir istorijų scena po atviru dan
+ gumi. Keliaudami nuo vienos šviesos stotelės prie kitos\, atrasite\, kai
+ p Kėdainių istorija susitinka su šiandienos kultūra ir žvilgsniu į a
+ teitį.\n\nDaugiau: https://kedainiai.lt/renginiai/244/sviesu-festivalis-s
+ viesos-kronikos-kedainiu-senamiestyje/event-9634
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Šviesų festivalis „Šviesos kronikos“ Kėdainių senamies
+ tyje
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

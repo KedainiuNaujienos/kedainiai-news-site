@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Renginiai Kedainiu Rajone//LT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:7921efbc723b2255@renginiaikedainiuose.lt
+DTSTAMP:20261128T161055Z
+DTSTART:20261212T100000Z
+DTEND:20261212T120000Z
+SUMMARY:Kūrybinis-edukacinis užsiėmimas „Gamtos ir tradicijų dermė"
+LOCATION:Pernaravos seniūnijos salė\, - J. Juškytės g. 26\, Pernarava\,
+  Pernaravos sen.\, Kėdainių r.
+URL:https://kedainiai.lt/renginiai/244/kurybinis-edukacinis-uzsiemimas-gamt
+ os-ir-tradiciju-derme/event-9708
+DESCRIPTION:Renginio adresas - J. Juškytės g. 26\, Pernarava\, Pernaravos
+  sen.\, Kėdainių r. Renginio organizatorius - Josvainių kultūros centr
+ o Pernaravos skyrius *Renginys nemokamas Kūrybiniai – edukaciniai užsi
+ ėmimai\, puoselėjant gamtos pažinimo\, kūrybos ir tradicinio lietuviš
+ ko santykio su gamta vertybes. Registracija telefonu +37067449362\n\nDaugi
+ au: https://kedainiai.lt/renginiai/244/kurybinis-edukacinis-uzsiemimas-gam
+ tos-ir-tradiciju-derme/event-9708
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Kūrybinis-edukacinis užsiėmimas „Gamtos ir tradicijų derm
+ ė"
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

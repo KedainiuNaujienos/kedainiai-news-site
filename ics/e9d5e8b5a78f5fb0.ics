@@ -1,0 +1,33 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Renginiai Kedainiu Rajone//LT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:e9d5e8b5a78f5fb0@renginiaikedainiuose.lt
+DTSTAMP:20261128T161055Z
+DTSTART:20261203T160000Z
+DTEND:20261203T170000Z
+SUMMARY:Advento vakaras „Tikėjimo\, muzikos ir bendrystės šviesoje“.
+  Kalnaberžės skyriaus Sirutiškio folkloro ansamblis „Radasta“\, vad
+ . Dangiras Grigalevičius
+LOCATION:Kėdainių kultūros centro Pelėdnagių skyrius\, - V. Konceviči
+ aus g. 3\, Pelėdnagiai\, Pelėdnagių sen.\, Kėdainių r.
+URL:https://kedainiai.lt/renginiai/244/advento-vakaras-tikejimo-muzikos-ir-
+ bendrystes-sviesoje.-kalnaberzes-skyriaus-sirutiskio-folkloro-ansamblis-ra
+ dasta-vad.-dangiras-grigalevicius/event-9771
+DESCRIPTION:Renginio adresas - V. Koncevičiaus g. 3\, Pelėdnagiai\, Pelė
+ dnagių sen.\, Kėdainių r. Renginio organizatorius - Kėdainių kultūro
+ s centro Pelėdnagių skyrius *Nemokamas renginys\n\nDaugiau: https://keda
+ iniai.lt/renginiai/244/advento-vakaras-tikejimo-muzikos-ir-bendrystes-svie
+ soje.-kalnaberzes-skyriaus-sirutiskio-folkloro-ansamblis-radasta-vad.-dang
+ iras-grigalevicius/event-9771
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Advento vakaras „Tikėjimo\, muzikos ir bendrystės šviesoje
+ “. Kalnaberžės skyriaus Sirutiškio folkloro ansamblis „Radasta“\,
+  vad. Dangiras Grigalevičius
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

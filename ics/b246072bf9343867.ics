@@ -1,0 +1,32 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Renginiai Kedainiu Rajone//LT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:b246072bf9343867@renginiaikedainiuose.lt
+DTSTAMP:20261128T161055Z
+DTSTART:20261206T140000Z
+DTEND:20261206T230000Z
+SUMMARY:Nijolė Narmontaitė ir Arnas Švilpauskas „Madinga pora“
+LOCATION:Kėdainių kultūros centras\, - J. Basanavičiaus 24\, Kėdainiai
+  *Bilietai ir daugiau informacijos JI – vyresnė ir turtinga\, JIS – j
+ aunas ir tik gražus. Ar meilė įmanoma? Viskas apie vyrus ir moteris. Ne
+ praraskite progos pasijuokti ir padainuoti kartu su Nijole Narmontaite ir 
+ Arnu Švilpausku.
+URL:https://kedainiai.lt/renginiai/244/nijole-narmontaite-ir-arnas-svilpaus
+ kas-madinga-pora/event-9039
+DESCRIPTION:Renginio organizatorius - VšĮ „Baltas ekranas" Renginio adr
+ esas - J. Basanavičiaus 24\, Kėdainiai *Bilietai ir daugiau informacijos
+  JI – vyresnė ir turtinga\, JIS – jaunas ir tik gražus. Ar meilė į
+ manoma? Viskas apie vyrus ir moteris. Nepraraskite progos pasijuokti ir pa
+ dainuoti kartu su Nijole Narmontaite ir Arnu Švilpausku.\n\nDaugiau: http
+ s://kedainiai.lt/renginiai/244/nijole-narmontaite-ir-arnas-svilpauskas-mad
+ inga-pora/event-9039
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Nijolė Narmontaitė ir Arnas Švilpauskas „Madinga pora“
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

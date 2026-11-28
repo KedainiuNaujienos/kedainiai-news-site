@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Renginiai Kedainiu Rajone//LT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:4a561b82e09d203c@renginiaikedainiuose.lt
+DTSTAMP:20261128T161055Z
+DTSTART:20261218T160000Z
+DTEND:20261218T170000Z
+SUMMARY:Michael Bublé Tribute Show | Adam Dean (UK)
+LOCATION:Kėdainių kultūros centras\, - J. Basanavičiaus 24\, Kėdainiai
+URL:https://kedainiai.lt/renginiai/244/michael-buble-tribute-show-adam-dean
+ -uk/event-9300
+DESCRIPTION:Renginio adresas - J. Basanavičiaus 24\, Kėdainiai Renginio o
+ rganizatorius - CULTURE LIVE\, VŠĮ Bilietai ir daugiau inforamacijos\n\n
+ Daugiau: https://kedainiai.lt/renginiai/244/michael-buble-tribute-show-ada
+ m-dean-uk/event-9300
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Michael Bublé Tribute Show | Adam Dean (UK)
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

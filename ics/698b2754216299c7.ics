@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Renginiai Kedainiu Rajone//LT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:698b2754216299c7@renginiaikedainiuose.lt
+DTSTAMP:20261128T161055Z
+DTSTART:20261212T110000Z
+DTEND:20261212T130000Z
+SUMMARY:Futsal A lygos rungtynės Kėdainių „Kėdainiai Futsal“ – Na
+ ujosios Akmenės „FK Akmenės kraštas“
+LOCATION:Kėdainių arena\, – J. Basanavičiaus g. 1A\, Kėdainiai
+URL:https://kedainiai.lt/renginiai/244/futsal-a-lygos-rungtynes-kedainiu-ke
+ dainiai-futsal-naujosios-akmenes-fk-akmenes-krastas/event-9656
+DESCRIPTION:Renginio adresas – J. Basanavičiaus g. 1A\, Kėdainiai Rengi
+ nio organizatorius – VšĮ „Kėdainių sporto idėjos“ *Renginys nem
+ okamas\n\nDaugiau: https://kedainiai.lt/renginiai/244/futsal-a-lygos-rungt
+ ynes-kedainiu-kedainiai-futsal-naujosios-akmenes-fk-akmenes-krastas/event-
+ 9656
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Futsal A lygos rungtynės Kėdainių „Kėdainiai Futsal“ 
+ – Naujosios Akmenės „FK Akmenės kraštas“
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

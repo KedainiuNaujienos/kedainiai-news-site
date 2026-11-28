@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Renginiai Kedainiu Rajone//LT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:48114210c4049ec3@renginiaikedainiuose.lt
+DTSTAMP:20261128T161055Z
+DTSTART:20261129T090000Z
+DTEND:20261129T103000Z
+SUMMARY:Kino filmas „Kerų karalystė“
+LOCATION:Kėdainių kultūros centras\, - J. Basanavičiaus g. 24\, Kėdain
+ iai *Bilietai parduodami prieš renginį kultūros centre ir internetu
+URL:https://www.kedainiukulturoscentras.lt/renginiai/kino-filmas-keru-karal
+ yste/
+DESCRIPTION:Renginio organizatorius - UAB „Kadras 24“ Renginio adresas 
+ - J. Basanavičiaus g. 24\, Kėdainiai *Bilietai parduodami prieš rengin
+ į kultūros centre ir internetu\n\nDaugiau: https://www.kedainiukulturosc
+ entras.lt/renginiai/kino-filmas-keru-karalyste/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Kino filmas „Kerų karalystė“
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

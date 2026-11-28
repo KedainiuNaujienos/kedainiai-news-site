@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Renginiai Kedainiu Rajone//LT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:90d2f9e89bc30b8c@renginiaikedainiuose.lt
+DTSTAMP:20261128T161055Z
+DTSTART:20261201T160000Z
+DTEND:20261201T180000Z
+SUMMARY:Spektaklis „Senjorai“
+LOCATION:Kėdainių kultūros centras\, - J. Basanavičiaus 24\, Kėdainiai
+URL:https://www.kedainiukulturoscentras.lt/renginiai/spektaklis-senjorai/
+DESCRIPTION:Renginio adresas - J. Basanavičiaus 24\, Kėdainiai Renginio o
+ rganizatorius - VšĮ „Teatro dienos” *Bilietai ir daugiau informacijo
+ s Spektaklis pagal italų dramaturgo Aldo Nicolaj pjesę „Geležinė kar
+ ta“ (vertėja Inga Tuliševskaitė). Režisierius - Rolandas Kazlas. Sce
+ nografė – Elvita Brazdylytė.\n\nDaugiau: https://www.kedainiukulturosc
+ entras.lt/renginiai/spektaklis-senjorai/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Spektaklis „Senjorai“
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

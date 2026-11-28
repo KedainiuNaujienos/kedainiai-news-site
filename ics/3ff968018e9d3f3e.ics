@@ -1,0 +1,40 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Renginiai Kedainiu Rajone//LT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:3ff968018e9d3f3e@renginiaikedainiuose.lt
+DTSTAMP:20261128T161055Z
+DTSTART:20261129T150000Z
+DTEND:20261129T170000Z
+SUMMARY:Spektaklis „Susitikimas su Mažuoju princu“
+LOCATION:Akademijos kultūros centras\, - Stoties g. 9\, Akademija\, Kėdai
+ nių r. *Spektaklis nemokamas Klasika tapusi Antoine'o de Saint-Exupéry a
+ legorinė pasaka\, užkariavusi milijonų širdis\, kviečia į ypatingą 
+ susitikimą! Tai jautri ir prasminga kelionė į pasaulį\, kuriame atgyja
+  draugystė\, meilė\, svajonės ir tikrosios gyvenimo vertybės. Tai spek
+ taklis įvairaus amžiaus žiūrovams – ir tiems\, kurie dar tiki stebuk
+ lais\, ir tiems\, kurie galbūt jau pamiršo\, kaip juos pastebėti. Juk M
+ ažojo princo istorijoje kiekvienas gali atrasti kažką artimo\, nes svar
+ biausi dalykai matomi tik širdimi...
+URL:https://kedainiai.lt/renginiai/244/spektaklis-susitikimas-su-mazuoju-pr
+ incu/event-9543
+DESCRIPTION:Renginio organizatorius - Akademijos kultūros centras Renginio
+  adresas - Stoties g. 9\, Akademija\, Kėdainių r. *Spektaklis nemokamas 
+ Klasika tapusi Antoine'o de Saint-Exupéry alegorinė pasaka\, užkariavus
+ i milijonų širdis\, kviečia į ypatingą susitikimą! Tai jautri ir pra
+ sminga kelionė į pasaulį\, kuriame atgyja draugystė\, meilė\, svajon
+ ės ir tikrosios gyvenimo vertybės. Tai spektaklis įvairaus amžiaus ži
+ ūrovams – ir tiems\, kurie dar tiki stebuklais\, ir tiems\, kurie galb
+ ūt jau pamiršo\, kaip juos pastebėti. Juk Mažojo princo istorijoje kie
+ kvienas gali atrasti kažką artimo\, nes svarbiausi dalykai…\n\nDaugiau
+ : https://kedainiai.lt/renginiai/244/spektaklis-susitikimas-su-mazuoju-pri
+ ncu/event-9543
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Spektaklis „Susitikimas su Mažuoju princu“
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

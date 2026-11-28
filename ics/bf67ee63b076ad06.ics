@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Renginiai Kedainiu Rajone//LT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:bf67ee63b076ad06@renginiaikedainiuose.lt
+DTSTAMP:20261128T161055Z
+DTSTART:20261227T170000Z
+DTEND:20261227T190000Z
+SUMMARY:LKL rungtynės: Kėdainių „Nevėžis“ – Klaipėdos „Neptū
+ nas“
+LOCATION:Kėdainių arena\, - J. Basanavičiaus g. 1A\, Kėdainiai
+URL:https://kedainiai.lt/renginiai/244/lkl-rungtynes-kedainiu-nevezis-klaip
+ edos-neptunas/event-9373
+DESCRIPTION:Renginio adresas - J. Basanavičiaus g. 1A\, Kėdainiai Rengini
+ o organizatorius - VšĮ Veržlusis Nevėžis *Bilietai ir daugiau informa
+ cijos\n\nDaugiau: https://kedainiai.lt/renginiai/244/lkl-rungtynes-kedaini
+ u-nevezis-klaipedos-neptunas/event-9373
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:LKL rungtynės: Kėdainių „Nevėžis“ – Klaipėdos „Ne
+ ptūnas“
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+END:VCALENDAR
